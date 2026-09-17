@@ -1,0 +1,960 @@
+{
+  "examId": "ale",
+  "title": "Agriculturist Licensure Examination (ALE)",
+  "country": "Philippines",
+  "region": "PH",
+  "disclaimer": "Original practice items for educational simulation only. Not affiliated with PRC/CSC.",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "ale-0001",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Science",
+      "topic": "Plant Physiology",
+      "difficulty": "medium",
+      "stem": "Photosynthesis in green crops primarily converts light energy into:",
+      "choices": [
+        "Chemical energy stored in carbohydrates",
+        "Nuclear energy",
+        "Only heat with no organic product",
+        "Soil nitrogen directly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Photosynthesis produces carbohydrates as stored chemical energy.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0002",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Science",
+      "topic": "Rice Production",
+      "difficulty": "easy",
+      "stem": "In the Philippines, the staple cereal crop of greatest national importance is:",
+      "choices": [
+        "Wheat",
+        "Rice",
+        "Oats",
+        "Rye"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rice is the primary staple crop in the Philippines.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0003",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Science",
+      "topic": "Plant Breeding",
+      "difficulty": "hard",
+      "stem": "Hybrid vigor (heterosis) is commonly exploited to:",
+      "choices": [
+        "Reduce all genetic variation forever",
+        "Increase performance of offspring beyond parents for selected traits",
+        "Eliminate the need for nutrients",
+        "Stop flowering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heterosis can improve yield/traits in hybrid cultivars.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0004",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Soil Science",
+      "topic": "Soil Texture",
+      "difficulty": "medium",
+      "stem": "A soil with roughly equal sand, silt, and clay and good tilth is generally called:",
+      "choices": [
+        "Peat only",
+        "Loam",
+        "Gravel",
+        "Bedrock"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loam is a balanced, workable agricultural soil texture class.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0005",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Soil Science",
+      "topic": "Soil pH",
+      "difficulty": "medium",
+      "stem": "Most Philippine field crops prefer soils that are:",
+      "choices": [
+        "Extremely alkaline only (pH > 9)",
+        "Near neutral to slightly acidic, depending on crop",
+        "Pure salt flats only",
+        "Always pH 2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Crop nutrient availability is generally better near neutral to slightly acidic conditions.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0006",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Soil Science",
+      "topic": "Soil Fertility",
+      "difficulty": "easy",
+      "stem": "Nitrogen, phosphorus, and potassium are known as:",
+      "choices": [
+        "Micronutrients only",
+        "Primary macronutrients",
+        "Pesticides",
+        "Herbicides"
+      ],
+      "correctIndex": 1,
+      "explanation": "N, P, and K are primary plant macronutrients.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0007",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Protection",
+      "topic": "Integrated Pest Management",
+      "difficulty": "medium",
+      "stem": "IPM emphasizes:",
+      "choices": [
+        "Calendar spraying only regardless of thresholds",
+        "Combining cultural, biological, and chemical tactics based on monitoring and thresholds",
+        "Eliminating all beneficial insects first",
+        "Ignoring pest life cycles"
+      ],
+      "correctIndex": 1,
+      "explanation": "IPM is an ecological, threshold-based multi-tactic approach.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0008",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Protection",
+      "topic": "Plant Pathology",
+      "difficulty": "hard",
+      "stem": "A plant disease epidemic typically requires a susceptible host, a virulent pathogen, and:",
+      "choices": [
+        "A favorable environment",
+        "Only moonlight",
+        "No water ever",
+        "Absence of any crop"
+      ],
+      "correctIndex": 0,
+      "explanation": "The disease triangle: host, pathogen, and environment.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0009",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Protection",
+      "topic": "Entomology",
+      "difficulty": "easy",
+      "stem": "Incomplete metamorphosis insects generally lack a distinct:",
+      "choices": [
+        "Nymph stage",
+        "Pupa stage",
+        "Adult stage",
+        "Egg stage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hemimetabolous insects lack a pupal stage.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0010",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Animal Science",
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "stem": "Ruminants can utilize fibrous forages efficiently largely because of:",
+      "choices": [
+        "Absence of a stomach",
+        "Microbial fermentation in the rumen",
+        "Photosynthesis in the liver",
+        "Salt glands only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rumen microbes ferment fiber into usable products.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0011",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Animal Science",
+      "topic": "Poultry",
+      "difficulty": "easy",
+      "stem": "Broiler production primarily aims to raise chickens for:",
+      "choices": [
+        "Egg laying only",
+        "Meat",
+        "Draft work",
+        "Fiber"
+      ],
+      "correctIndex": 1,
+      "explanation": "Broilers are meat-type chickens.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0012",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Animal Science",
+      "topic": "Breeding",
+      "difficulty": "hard",
+      "stem": "Selection of breeding animals should primarily consider:",
+      "choices": [
+        "Coat color only always",
+        "Performance records and breeding goals",
+        "Random chance only",
+        "Seller slogans only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genetic improvement relies on objective selection criteria.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0013",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Economics and Marketing",
+      "topic": "Supply and Demand",
+      "difficulty": "medium",
+      "stem": "Other factors constant, an increase in demand for mangoes tends to:",
+      "choices": [
+        "Lower equilibrium price always",
+        "Raise equilibrium price and/or quantity traded",
+        "Eliminate production costs",
+        "Stop international trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "Higher demand shifts the demand curve rightward, raising price/quantity.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0014",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Economics and Marketing",
+      "topic": "Farm Management",
+      "difficulty": "easy",
+      "stem": "Gross margin is commonly approximated as:",
+      "choices": [
+        "Total revenue minus variable costs",
+        "Only fixed costs",
+        "Taxes minus rain",
+        "Land area only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gross margin ≈ returns minus variable costs.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0015",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Economics and Marketing",
+      "topic": "Cooperatives",
+      "difficulty": "medium",
+      "stem": "An agricultural cooperative is primarily owned and controlled by:",
+      "choices": [
+        "Foreign governments only",
+        "Its member-patrons",
+        "Random tourists",
+        "Only pesticide companies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coops are member-owned and member-controlled enterprises.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0016",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Extension and Communication",
+      "topic": "Extension Approaches",
+      "difficulty": "medium",
+      "stem": "Effective agricultural extension focuses on:",
+      "choices": [
+        "One-way lectures only with no feedback",
+        "Facilitating learning and adoption through participatory communication with farmers",
+        "Hiding research results",
+        "Ignoring indigenous knowledge always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Modern extension is participatory and learner-centered.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0017",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Extension and Communication",
+      "topic": "Technology Transfer",
+      "difficulty": "easy",
+      "stem": "A farmer field school primarily promotes learning through:",
+      "choices": [
+        "Only social media ads",
+        "Experiential, group-based field learning",
+        "Mandating imports",
+        "Banning all meetings"
+      ],
+      "correctIndex": 1,
+      "explanation": "FFS emphasizes discovery learning in the field.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0018",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Extension and Communication",
+      "topic": "Communication",
+      "difficulty": "hard",
+      "stem": "In diffusion of innovations, early adopters are typically:",
+      "choices": [
+        "The very last to try anything",
+        "Opinion leaders who try innovations sooner than the majority",
+        "Always opposed to change",
+        "Non-farmers only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Early adopters often influence later adopters.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0019",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Science",
+      "topic": "Irrigation",
+      "difficulty": "medium",
+      "stem": "Drip irrigation is advantageous because it:",
+      "choices": [
+        "Floods entire fields unnecessarily always",
+        "Applies water near the root zone and can improve efficiency",
+        "Removes all soil organic matter",
+        "Works only on saltwater"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drip can reduce losses and target the root zone.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0020",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Soil Science",
+      "topic": "Erosion",
+      "difficulty": "easy",
+      "stem": "Contour farming helps reduce erosion mainly by:",
+      "choices": [
+        "Plowing straight downslope always",
+        "Following elevation contours to slow runoff",
+        "Removing all vegetation",
+        "Increasing bare soil on slopes intentionally"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contours slow water flow and reduce soil loss.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0021",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Protection",
+      "topic": "Weeds",
+      "difficulty": "medium",
+      "stem": "A weed that germinates and completes its life cycle within one year is:",
+      "choices": [
+        "Perennial",
+        "Annual",
+        "Biennial always by definition",
+        "Tree only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Annuals complete life cycle in one year.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0022",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Animal Science",
+      "topic": "Health",
+      "difficulty": "medium",
+      "stem": "Biosecurity on livestock farms aims to:",
+      "choices": [
+        "Invite all diseases",
+        "Prevent introduction and spread of pathogens",
+        "Stop feeding animals",
+        "Ban all records"
+      ],
+      "correctIndex": 1,
+      "explanation": "Biosecurity reduces disease risk.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0023",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Economics and Marketing",
+      "topic": "Value Chain",
+      "difficulty": "hard",
+      "stem": "Value addition in agriculture can include:",
+      "choices": [
+        "Only discarding produce",
+        "Processing, grading, packaging, and better market linkages",
+        "Reducing all quality standards",
+        "Avoiding cold chains always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Value addition improves marketability and returns.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0024",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Extension and Communication",
+      "topic": "Gender",
+      "difficulty": "easy",
+      "stem": "Gender-responsive extension recognizes that:",
+      "choices": [
+        "Only men farm",
+        "Women and men may have different roles, access, and needs in agri-food systems",
+        "Extension ignores households",
+        "Children own all cooperatives"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inclusive extension accounts for gendered roles and access.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0025",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Science",
+      "topic": "Climate",
+      "difficulty": "medium",
+      "stem": "El Niño in the Philippines commonly associates with:",
+      "choices": [
+        "Wetter conditions everywhere always",
+        "Higher risk of drought/drier conditions in many areas",
+        "No climate impact",
+        "Only colder poles locally"
+      ],
+      "correctIndex": 1,
+      "explanation": "El Niño often brings drier conditions affecting PH agriculture.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0026",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Science",
+      "topic": "Agronomy",
+      "difficulty": "easy",
+      "stem": "Photosynthesis in crops primarily occurs in:",
+      "choices": [
+        "Roots only",
+        "Chloroplast-containing green tissues",
+        "Xylem vessels alone",
+        "Soil microbes only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chloroplasts in green tissues drive photosynthesis.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0027",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Science",
+      "topic": "Plant Breeding",
+      "difficulty": "hard",
+      "stem": "Hybrid vigor (heterosis) refers to:",
+      "choices": [
+        "Weaker offspring always",
+        "Superior performance of hybrids relative to parents",
+        "Only vegetative cloning",
+        "Seed dormancy only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heterosis is enhanced hybrid performance.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0028",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Soil Science",
+      "topic": "Fertility",
+      "difficulty": "medium",
+      "stem": "Nitrogen deficiency in plants often shows as:",
+      "choices": [
+        "Overall chlorosis of older leaves first commonly",
+        "Purple stems only from excess N always",
+        "No symptoms ever",
+        "Fruit solely without foliage change"
+      ],
+      "correctIndex": 0,
+      "explanation": "N is mobile; older leaves yellow first commonly.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0029",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Soil Science",
+      "topic": "pH",
+      "difficulty": "easy",
+      "stem": "A soil pH of 7 is considered:",
+      "choices": [
+        "Strongly acidic",
+        "Neutral",
+        "Strongly alkaline only",
+        "Saline by definition"
+      ],
+      "correctIndex": 1,
+      "explanation": "pH 7 is neutral.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0030",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Protection",
+      "topic": "Insects",
+      "difficulty": "hard",
+      "stem": "Economic threshold is the pest density at which:",
+      "choices": [
+        "Control measures should be taken to prevent reaching EIL",
+        "All insects must be eradicated always",
+        "No monitoring is needed",
+        "Pesticides are banned"
+      ],
+      "correctIndex": 0,
+      "explanation": "ET triggers action before economic injury level.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0031",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Protection",
+      "topic": "Diseases",
+      "difficulty": "medium",
+      "stem": "A plant disease triangle includes host, pathogen, and:",
+      "choices": [
+        "Market price only",
+        "Favorable environment",
+        "Tractor brand",
+        "Export quota"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disease requires susceptible host, pathogen, and conducive environment.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0032",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Animal Science",
+      "topic": "Nutrition",
+      "difficulty": "easy",
+      "stem": "Roughages are generally higher in:",
+      "choices": [
+        "Fiber",
+        "Only pure fat",
+        "Only purified sugar",
+        "Plastic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Roughages are fibrous feeds.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0033",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Animal Science",
+      "topic": "Reproduction",
+      "difficulty": "hard",
+      "stem": "Artificial insemination in livestock primarily aims to:",
+      "choices": [
+        "Reduce genetic improvement",
+        "Improve genetics and breeding efficiency with selected sires",
+        "Eliminate all records",
+        "Stop vaccination"
+      ],
+      "correctIndex": 1,
+      "explanation": "AI spreads superior genetics efficiently.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0034",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Economics and Marketing",
+      "topic": "Supply Demand",
+      "difficulty": "medium",
+      "stem": "Other things equal, a bumper harvest that increases supply tends to:",
+      "choices": [
+        "Raise prices always",
+        "Put downward pressure on prices",
+        "Eliminate demand",
+        "Freeze markets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Increased supply typically lowers equilibrium price ceteris paribus.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0035",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Economics and Marketing",
+      "topic": "Cooperatives",
+      "difficulty": "easy",
+      "stem": "An agricultural cooperative is owned by:",
+      "choices": [
+        "Only foreign banks",
+        "Its member patrons",
+        "Only the mayor personally",
+        "Random non-members only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coops are member-owned enterprises.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0036",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Extension and Communication",
+      "topic": "Methods",
+      "difficulty": "hard",
+      "stem": "Farmer field schools emphasize:",
+      "choices": [
+        "One-way lectures only",
+        "Participatory, experiential learning in the field",
+        "Avoiding demonstration",
+        "Ignoring local knowledge"
+      ],
+      "correctIndex": 1,
+      "explanation": "FFS is participatory field-based learning.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0037",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Extension and Communication",
+      "topic": "Adoption",
+      "difficulty": "medium",
+      "stem": "Relative advantage of an innovation refers to:",
+      "choices": [
+        "How much better it is perceived vs. the idea it supersedes",
+        "Only its color",
+        "Government logo size",
+        "Packaging alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Relative advantage influences adoption speed.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0038",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Science",
+      "topic": "Irrigation",
+      "difficulty": "hard",
+      "stem": "Field capacity is roughly the soil water content after:",
+      "choices": [
+        "Complete oven drying",
+        "Drainage of excess water following saturation",
+        "Permanent wilting always",
+        "Flooding forever"
+      ],
+      "correctIndex": 1,
+      "explanation": "Field capacity follows drainage of gravitational water.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0039",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Soil Science",
+      "topic": "Erosion",
+      "difficulty": "medium",
+      "stem": "Mulching helps reduce erosion by:",
+      "choices": [
+        "Exposing bare soil",
+        "Protecting the soil surface and reducing raindrop impact/runoff velocity",
+        "Removing organic matter always",
+        "Increasing slope steepness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cover mulch protects soil and slows runoff.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0040",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Protection",
+      "topic": "IPM",
+      "difficulty": "easy",
+      "stem": "Integrated Pest Management combines:",
+      "choices": [
+        "Only calendar spraying forever",
+        "Multiple compatible tactics to manage pests economically and safely",
+        "Total avoidance of monitoring",
+        "Only legal bans without options"
+      ],
+      "correctIndex": 1,
+      "explanation": "IPM integrates monitoring and multiple control tactics.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0041",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Animal Science",
+      "topic": "Health",
+      "difficulty": "hard",
+      "stem": "Vaccination programs primarily provide:",
+      "choices": [
+        "Immediate antibiotics effect always",
+        "Acquired immunity against specific diseases",
+        "Guaranteed zero biosecurity need",
+        "Replacement for all nutrition"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vaccines stimulate protective immunity.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0042",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Economics and Marketing",
+      "topic": "Credit",
+      "difficulty": "medium",
+      "stem": "Production loans for farmers are typically intended to finance:",
+      "choices": [
+        "Only luxury imports",
+        "Inputs and operations for a production cycle",
+        "Political campaigns",
+        "Non-farm gambling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Production credit funds crop/livestock operating needs.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0043",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Extension and Communication",
+      "topic": "ICT",
+      "difficulty": "easy",
+      "stem": "SMS advisories to farmers are an example of:",
+      "choices": [
+        "Ignoring information needs",
+        "Using ICT for timely agricultural information",
+        "Banning radios",
+        "Only print forever"
+      ],
+      "correctIndex": 1,
+      "explanation": "ICT channels deliver timely agri-info.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0044",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Science",
+      "topic": "Climate",
+      "difficulty": "medium",
+      "stem": "Drought-resilient varieties are bred mainly to:",
+      "choices": [
+        "Increase water sensitivity",
+        "Maintain yield under water-deficit stress",
+        "Require floods only",
+        "Eliminate photosynthesis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drought resilience sustains performance under water stress.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0045",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Soil Science",
+      "topic": "Organic Matter",
+      "difficulty": "hard",
+      "stem": "Soil organic matter contributes to:",
+      "choices": [
+        "Structure, nutrient cycling, and water holding capacity",
+        "Only soil color with no other role",
+        "Complete sterility of soil",
+        "Elimination of microbes always"
+      ],
+      "correctIndex": 0,
+      "explanation": "OM improves physical, chemical, and biological soil properties.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0046",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Protection",
+      "topic": "Weeds",
+      "difficulty": "easy",
+      "stem": "A competitive crop canopy can reduce weeds by:",
+      "choices": [
+        "Increasing light for weeds",
+        "Shading and resource competition against weeds",
+        "Adding weed seeds",
+        "Removing all crop residues always for weeds’ benefit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canopy competition suppresses weeds.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0047",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Animal Science",
+      "topic": "Breeds",
+      "difficulty": "medium",
+      "stem": "Indigenous animal genetic resources are important because they often:",
+      "choices": [
+        "Have no adaptive traits",
+        "Carry adaptation to local environments and systems",
+        "Cannot be conserved",
+        "Are identical to all exotic breeds always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Local breeds often adapt to local stressors and systems.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0048",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Economics and Marketing",
+      "topic": "Postharvest",
+      "difficulty": "hard",
+      "stem": "Reducing postharvest losses primarily increases:",
+      "choices": [
+        "Food available from the same production",
+        "On-farm waste intentionally",
+        "Only transport distance always",
+        "Seed contamination always"
+      ],
+      "correctIndex": 0,
+      "explanation": "Less loss means more food/income from same harvest.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0049",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Agricultural Extension and Communication",
+      "topic": "Gender",
+      "difficulty": "medium",
+      "stem": "Collecting sex-disaggregated data in extension helps to:",
+      "choices": [
+        "Ignore differences",
+        "Design inclusive programs responsive to different roles/access",
+        "Serve only one gender always by default without analysis",
+        "Avoid targeting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sex-disaggregated data informs equitable programming.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "ale-0050",
+      "examId": "ale",
+      "region": "PH",
+      "subject": "Crop Science",
+      "topic": "Seed Technology",
+      "difficulty": "easy",
+      "stem": "Certified seed aims to provide:",
+      "choices": [
+        "Unknown variety identity",
+        "Genetic identity and quality standards assurance",
+        "Guaranteed pest outbreak",
+        "No germination standard"
+      ],
+      "correctIndex": 1,
+      "explanation": "Certification assures varietal identity and quality attributes.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    }
+  ]
+}

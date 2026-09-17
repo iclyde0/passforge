@@ -1,0 +1,6 @@
+# Optional release signing (not used while debug signing is selected).
+# Copy to key.properties (do not commit secrets) and wire signingConfigs in build.gradle.kts.
+storePassword=YOUR_STORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=passforge
+storeFile=../keystore/passforge-release.jks

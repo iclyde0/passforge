@@ -1,0 +1,960 @@
+{
+  "examId": "cele",
+  "title": "Civil Engineers Licensure Examination (CELE)",
+  "country": "Philippines",
+  "region": "PH",
+  "disclaimer": "Original practice items for educational simulation only. Not affiliated with PRC/CSC.",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "cele-0001",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Statics",
+      "difficulty": "medium",
+      "stem": "For a concurrent coplanar force system in equilibrium, the algebraic sum of forces in x and y directions must be:",
+      "choices": [
+        "Maximum",
+        "Zero",
+        "Equal to weight only",
+        "Infinite"
+      ],
+      "correctIndex": 1,
+      "explanation": "ΣFx = 0 and ΣFy = 0.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0002",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Strength of Materials",
+      "difficulty": "medium",
+      "stem": "Normal stress due to axial load is computed as:",
+      "choices": [
+        "Force × Area",
+        "Force / Area",
+        "Moment / Force",
+        "Area / Force"
+      ],
+      "correctIndex": 1,
+      "explanation": "σ = P/A.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0003",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Surveying",
+      "difficulty": "easy",
+      "stem": "In surveying, a closed traverse should ideally have:",
+      "choices": [
+        "Unlimited linear misclosure always accepted",
+        "Angular and linear misclosures within allowable limits",
+        "No measured angles",
+        "Only pacing without checks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Misclosures must be within tolerances.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0004",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics and Geotechnical Engineering",
+      "topic": "Fluid Mechanics",
+      "difficulty": "medium",
+      "stem": "Bernoulli's equation assumes, among idealizations:",
+      "choices": [
+        "Compressible viscous unsteady flow always",
+        "Incompressible, inviscid, steady flow along a streamline (classic form)",
+        "No gravity",
+        "Infinite viscosity only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Classic Bernoulli assumptions.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0005",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics and Geotechnical Engineering",
+      "topic": "Open Channel",
+      "difficulty": "hard",
+      "stem": "Critical flow in an open channel occurs when Froude number is approximately:",
+      "choices": [
+        "Much less than 1 only always",
+        "1",
+        "100",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fr ≈ 1 indicates critical flow.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0006",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics and Geotechnical Engineering",
+      "topic": "Soil Mechanics",
+      "difficulty": "medium",
+      "stem": "Void ratio e is defined as:",
+      "choices": [
+        "Volume of voids / volume of solids",
+        "Volume of solids / volume of voids",
+        "Weight of water / weight of solids only always without definition",
+        "Porosity squared only"
+      ],
+      "correctIndex": 0,
+      "explanation": "e = Vv / Vs.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0007",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Structural Engineering and Construction",
+      "topic": "Steel Design",
+      "difficulty": "hard",
+      "stem": "In steel connection design, bolts in shear must be checked against:",
+      "choices": [
+        "Only paint thickness",
+        "Shear capacity (and bearing, etc., as applicable)",
+        "Only concrete tensile strength",
+        "Only soil cohesion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bolted connections require shear/bearing checks per NSCP-aligned practice.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0008",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Structural Engineering and Construction",
+      "topic": "Reinforced Concrete",
+      "difficulty": "medium",
+      "stem": "In under-reinforced concrete beams (desired behavior), failure is typically initiated by:",
+      "choices": [
+        "Sudden concrete crushing without steel yield",
+        "Steel yielding before concrete crushes (ductile warning)",
+        "Soil liquefaction inside the beam",
+        "Paint peeling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under-reinforced sections yield steel first.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0009",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Structural Engineering and Construction",
+      "topic": "Construction Management",
+      "difficulty": "easy",
+      "stem": "A critical path in a project network is the path with:",
+      "choices": [
+        "Least total float (longest duration path)",
+        "Most vacation days",
+        "Only procurement",
+        "Zero activities"
+      ],
+      "correctIndex": 0,
+      "explanation": "Critical path determines minimum project duration.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0010",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Structural Engineering and Construction",
+      "topic": "NSCP / Codes",
+      "difficulty": "medium",
+      "stem": "The NSCP in Philippine civil engineering practice refers to:",
+      "choices": [
+        "National Structural Code of the Philippines",
+        "National Shipping Code of Palawan",
+        "Network Server Control Protocol only",
+        "Nursing Standards Care Plan"
+      ],
+      "correctIndex": 0,
+      "explanation": "NSCP governs much of structural design practice in the PH.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0011",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Dynamics",
+      "difficulty": "medium",
+      "stem": "Newton's second law for a particle can be written as:",
+      "choices": [
+        "F = m a",
+        "F = m / a",
+        "F = a / m",
+        "F = m + a"
+      ],
+      "correctIndex": 0,
+      "explanation": "ΣF = ma.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0012",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics and Geotechnical Engineering",
+      "topic": "Hydrology",
+      "difficulty": "medium",
+      "stem": "The rational method peak runoff Q = CiA uses C as:",
+      "choices": [
+        "Chezy coefficient only",
+        "Runoff coefficient",
+        "Concrete strength",
+        "Chloride content"
+      ],
+      "correctIndex": 1,
+      "explanation": "C is the runoff coefficient.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0013",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics and Geotechnical Engineering",
+      "topic": "Foundation",
+      "difficulty": "hard",
+      "stem": "Bearing capacity failures of shallow foundations are primarily related to:",
+      "choices": [
+        "Soil shear strength and loading geometry/conditions",
+        "Only the color of cement",
+        "Wind speed on signage alone",
+        "Painter's wage rates"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ultimate bearing capacity depends on soil strength and loading.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0014",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Structural Engineering and Construction",
+      "topic": "Earthquake Engineering",
+      "difficulty": "hard",
+      "stem": "Ductility in seismic design is valued because it:",
+      "choices": [
+        "Makes structures brittle on purpose",
+        "Allows energy dissipation and deformation capacity before collapse",
+        "Eliminates all lateral loads",
+        "Removes need for connections"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ductile detailing improves seismic performance.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0015",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Differential Calculus",
+      "difficulty": "easy",
+      "stem": "The derivative of x² with respect to x is:",
+      "choices": [
+        "x",
+        "2x",
+        "x²",
+        "2"
+      ],
+      "correctIndex": 1,
+      "explanation": "d/dx(x²) = 2x.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0016",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Structural Engineering and Construction",
+      "topic": "Temporary Works",
+      "difficulty": "medium",
+      "stem": "Formwork design must primarily ensure:",
+      "choices": [
+        "Aesthetic paint only",
+        "Strength, rigidity, and safety under construction loads",
+        "Maximum leakage intentionally",
+        "Zero braces always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Formwork must safely carry construction loads.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0017",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics and Geotechnical Engineering",
+      "topic": "Water Supply",
+      "difficulty": "easy",
+      "stem": "In water distribution, residual chlorine is maintained primarily to:",
+      "choices": [
+        "Increase water temperature",
+        "Provide disinfection residual in the distribution system",
+        "Dissolve pipes faster",
+        "Measure turbidity only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A disinfectant residual helps control microbial regrowth.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0018",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Probability",
+      "difficulty": "medium",
+      "stem": "If two fair coins are tossed, probability of two heads is:",
+      "choices": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1"
+      ],
+      "correctIndex": 2,
+      "explanation": "P(HH)=1/4.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0019",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Structural Engineering and Construction",
+      "topic": "Quantity Surveying",
+      "difficulty": "easy",
+      "stem": "Unit of reinforcing steel bars in estimates is commonly:",
+      "choices": [
+        "Cubic meters only",
+        "Kilograms or tons (weight)",
+        "Liters",
+        "Candela"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rebar is estimated by weight.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0020",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics and Geotechnical Engineering",
+      "topic": "Environmental",
+      "difficulty": "medium",
+      "stem": "BOD in wastewater engineering primarily indicates:",
+      "choices": [
+        "Biochemical oxygen demand related to organic pollution strength",
+        "Bar steel demand",
+        "Bearing of drilled piles only",
+        "Bolt outer diameter"
+      ],
+      "correctIndex": 0,
+      "explanation": "BOD measures oxygen demand from organic matter.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0021",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Integral Calculus",
+      "difficulty": "medium",
+      "stem": "∫ 2x dx equals:",
+      "choices": [
+        "x² + C",
+        "2x² + C",
+        "2 + C",
+        "x + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "∫2x dx = x² + C.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0022",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Structural Engineering and Construction",
+      "topic": "Highway Engineering",
+      "difficulty": "medium",
+      "stem": "Superelevation on horizontal curves primarily counters:",
+      "choices": [
+        "Centrifugal effect on vehicles",
+        "Only pavement color",
+        "Only soil pH",
+        "Only traffic noise"
+      ],
+      "correctIndex": 0,
+      "explanation": "Superelevation helps resist centrifugal force.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0023",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics and Geotechnical Engineering",
+      "topic": "Compaction",
+      "difficulty": "easy",
+      "stem": "Proctor compaction test relates dry density primarily to:",
+      "choices": [
+        "Moisture content",
+        "Steel grade only",
+        "Paint brand",
+        "Wind direction"
+      ],
+      "correctIndex": 0,
+      "explanation": "Compaction curves peak near optimum moisture content.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0024",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "easy",
+      "stem": "Area of a triangle with base 10 and height 6 is:",
+      "choices": [
+        "30",
+        "60",
+        "16",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "A = (1/2)*10*6 = 30.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0025",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Structural Engineering and Construction",
+      "topic": "Construction Safety",
+      "difficulty": "medium",
+      "stem": "On Philippine construction sites, fall protection is most critical when working:",
+      "choices": [
+        "At ground level only",
+        "At heights / unprotected edges",
+        "Only in offices",
+        "Only underwater"
+      ],
+      "correctIndex": 1,
+      "explanation": "Work at height requires fall protection measures.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0026",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Calculus",
+      "difficulty": "easy",
+      "stem": "The derivative of x² is:",
+      "choices": [
+        "x",
+        "2x",
+        "x²",
+        "2"
+      ],
+      "correctIndex": 1,
+      "explanation": "d/dx (x²) = 2x.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0027",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Statics",
+      "difficulty": "hard",
+      "stem": "For a rigid body in equilibrium, the sum of moments about any point is:",
+      "choices": [
+        "Maximum always",
+        "Zero",
+        "Equal to mass only",
+        "Infinite"
+      ],
+      "correctIndex": 1,
+      "explanation": "ΣM = 0 for equilibrium.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0028",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics",
+      "topic": "Fluid Properties",
+      "difficulty": "medium",
+      "stem": "Specific gravity is:",
+      "choices": [
+        "Density relative to water (commonly)",
+        "Always equal to viscosity",
+        "Only temperature",
+        "A force unit"
+      ],
+      "correctIndex": 0,
+      "explanation": "SG compares density to a reference, usually water.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0029",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics",
+      "topic": "Open Channel",
+      "difficulty": "hard",
+      "stem": "Manning’s equation is used to estimate:",
+      "choices": [
+        "Steel yield strength",
+        "Uniform flow velocity/depth relations in channels",
+        "Concrete tensile strength only",
+        "Land surveying bearings only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Manning relates roughness, slope, and hydraulic radius to velocity.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0030",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Surveying",
+      "topic": "Leveling",
+      "difficulty": "easy",
+      "stem": "A level rod reading is primarily used to determine:",
+      "choices": [
+        "Voltage",
+        "Elevation differences",
+        "Concrete slump only",
+        "Steel carbon %"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leveling measures elevation differences.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0031",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Surveying",
+      "topic": "Traversing",
+      "difficulty": "medium",
+      "stem": "Closing error in a traverse indicates:",
+      "choices": [
+        "Perfect measurements always",
+        "Inconsistency needing adjustment/analysis",
+        "No need for checks",
+        "Automatic legal title"
+      ],
+      "correctIndex": 1,
+      "explanation": "Misclosure signals measurement/computing inconsistency.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0032",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Design of Steel Structures",
+      "topic": "Members",
+      "difficulty": "hard",
+      "stem": "Slenderness affects steel compression members mainly by:",
+      "choices": [
+        "Increasing paint adhesion only",
+        "Influencing buckling resistance",
+        "Eliminating all loads",
+        "Removing bracing needs always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Slender columns are more buckling-critical.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0033",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Design of Steel Structures",
+      "topic": "Connections",
+      "difficulty": "easy",
+      "stem": "High-strength bolts in structural steel are used to:",
+      "choices": [
+        "Decorate only",
+        "Transfer forces in connections per design codes",
+        "Replace all concrete",
+        "Measure rainfall"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bolts are designed connection elements.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0034",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Design of Concrete Structures",
+      "topic": "Flexure",
+      "difficulty": "medium",
+      "stem": "In singly reinforced beams, tension steel is placed near the:",
+      "choices": [
+        "Compression face only always",
+        "Tension face",
+        "Neutral geometric center only ignoring moments",
+        "Supports only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flexural tension steel resists tensile stress.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0035",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Design of Concrete Structures",
+      "topic": "Shear",
+      "difficulty": "hard",
+      "stem": "Stirrups primarily resist:",
+      "choices": [
+        "Axial tension in piles only",
+        "Shear and help confine concrete",
+        "Only architectural loads",
+        "Wind on glass alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shear reinforcement (stirrups) resists shear/diagonal tension.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0036",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Construction Methods",
+      "topic": "Safety",
+      "difficulty": "easy",
+      "stem": "PPE on construction sites is meant to:",
+      "choices": [
+        "Replace engineering controls always",
+        "Reduce worker exposure to hazards",
+        "Increase hazards",
+        "Avoid all training"
+      ],
+      "correctIndex": 1,
+      "explanation": "PPE is a key layer of hazard protection.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0037",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Construction Methods",
+      "topic": "Project Management",
+      "difficulty": "medium",
+      "stem": "The critical path is the path with:",
+      "choices": [
+        "Least total float / longest duration path controlling project length",
+        "Most coffee breaks",
+        "Only procurement of nails",
+        "Zero activities"
+      ],
+      "correctIndex": 0,
+      "explanation": "Critical path governs minimum project duration.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0038",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Geotechnical Engineering",
+      "topic": "Soil Mechanics",
+      "difficulty": "hard",
+      "stem": "Void ratio is the ratio of:",
+      "choices": [
+        "Volume of voids to volume of solids",
+        "Weight of water to weight of solids only always called porosity",
+        "Stress to strain",
+        "Force to area"
+      ],
+      "correctIndex": 0,
+      "explanation": "e = Vv / Vs.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0039",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Geotechnical Engineering",
+      "topic": "Foundations",
+      "difficulty": "easy",
+      "stem": "Bearing capacity refers to the soil’s ability to:",
+      "choices": [
+        "Conduct electricity",
+        "Support applied foundation loads without failure",
+        "Filter noise",
+        "Measure GPS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bearing capacity is load-carrying ability of soil.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0040",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Strength of Materials",
+      "difficulty": "medium",
+      "stem": "Normal stress is force divided by:",
+      "choices": [
+        "Velocity",
+        "Area",
+        "Temperature",
+        "Time"
+      ],
+      "correctIndex": 1,
+      "explanation": "σ = P/A.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0041",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics",
+      "topic": "Pipes",
+      "difficulty": "easy",
+      "stem": "Continuity for incompressible flow says discharge is:",
+      "choices": [
+        "A×V constant along a pipe (no storage)",
+        "Always zero",
+        "Independent of area",
+        "Only a pressure unit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q = AV is continuous for incompressible steady flow.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0042",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Surveying",
+      "topic": "Curves",
+      "difficulty": "hard",
+      "stem": "Degree of curve in highway alignment relates to:",
+      "choices": [
+        "Concrete cover only",
+        "Sharpness of a circular curve",
+        "Steel grade only",
+        "Paint color"
+      ],
+      "correctIndex": 1,
+      "explanation": "Degree of curve indicates curvature sharpness.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0043",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Design of Concrete Structures",
+      "topic": "Serviceability",
+      "difficulty": "medium",
+      "stem": "Deflection control is mainly a:",
+      "choices": [
+        "Serviceability concern",
+        "Only aesthetic with no structural meaning",
+        "Hydraulics topic exclusively",
+        "Survey traverse rule"
+      ],
+      "correctIndex": 0,
+      "explanation": "Excessive deflection is a serviceability limit state issue.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0044",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Construction Methods",
+      "topic": "Concrete",
+      "difficulty": "hard",
+      "stem": "Curing of concrete primarily aims to:",
+      "choices": [
+        "Dry the mix instantly always",
+        "Maintain moisture/temperature for strength development",
+        "Remove all cement",
+        "Prevent hydration entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proper curing supports hydration and strength gain.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0045",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Geotechnical Engineering",
+      "topic": "Compaction",
+      "difficulty": "easy",
+      "stem": "Proctor tests determine relationships among:",
+      "choices": [
+        "Steel fatigue only",
+        "Moisture content and dry density for compaction",
+        "Wind speed and drag",
+        "Paint thickness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proctor relates moisture to achievable dry density.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0046",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Mathematics",
+      "topic": "Differential Equations",
+      "difficulty": "hard",
+      "stem": "A first-order linear DE can often be solved using:",
+      "choices": [
+        "Only eye estimation",
+        "An integrating factor",
+        "Concrete mix design only",
+        "Stationary level loops only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Integrating factors solve many first-order linear DEs.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0047",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Hydraulics",
+      "topic": "Buoyancy",
+      "difficulty": "medium",
+      "stem": "Archimedes’ principle states buoyant force equals:",
+      "choices": [
+        "Weight of the object in air always",
+        "Weight of fluid displaced",
+        "Gauge pressure only",
+        "Viscosity times area"
+      ],
+      "correctIndex": 1,
+      "explanation": "Buoyancy equals weight of displaced fluid.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0048",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Design of Steel Structures",
+      "topic": "Loads",
+      "difficulty": "easy",
+      "stem": "Dead load typically includes:",
+      "choices": [
+        "Wind gusts only",
+        "Permanent structure self-weight",
+        "Only crowd live loads",
+        "Earthquake only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dead loads are permanent gravity loads of the structure.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0049",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Construction Methods",
+      "topic": "Earthworks",
+      "difficulty": "medium",
+      "stem": "Cut and fill balancing in roadway projects aims to:",
+      "choices": [
+        "Maximize waste always",
+        "Optimize earthmoving between excavation and embankment",
+        "Avoid all compaction",
+        "Ignore grades"
+      ],
+      "correctIndex": 1,
+      "explanation": "Balancing reduces haul costs and spoil/borrow needs.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cele-0050",
+      "examId": "cele",
+      "region": "PH",
+      "subject": "Geotechnical Engineering",
+      "topic": "Slope Stability",
+      "difficulty": "hard",
+      "stem": "A factor of safety less than 1 for a slope typically indicates:",
+      "choices": [
+        "Stable conditions",
+        "Failure condition / instability tendency",
+        "Perfect drainage only",
+        "Zero height"
+      ],
+      "correctIndex": 1,
+      "explanation": "FS < 1 implies driving forces exceed resisting forces.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    }
+  ]
+}

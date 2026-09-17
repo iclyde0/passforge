@@ -1,0 +1,922 @@
+{
+  "examId": "cse",
+  "title": "Civil Service Examination (CSE)",
+  "country": "Philippines",
+  "region": "PH",
+  "disclaimer": "Original practice items for educational simulation only. Not affiliated with PRC/CSC.",
+  "questionCount": 48,
+  "questions": [
+    {
+      "id": "cse-0001",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Philippine Constitution",
+      "difficulty": "medium",
+      "stem": "The Philippine government is democratic and republican. Who is the commander-in-chief of the Armed Forces?",
+      "choices": [
+        "Senate President",
+        "Chief Justice",
+        "President of the Philippines",
+        "Speaker of the House"
+      ],
+      "correctIndex": 2,
+      "explanation": "The President is Commander-in-Chief.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0002",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Philippine Government",
+      "difficulty": "easy",
+      "stem": "Which agency conducts civil service examinations in the Philippines?",
+      "choices": [
+        "PRC",
+        "CSC",
+        "CHED",
+        "DepEd"
+      ],
+      "correctIndex": 1,
+      "explanation": "CSC administers civil service exams.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0003",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Arithmetic",
+      "difficulty": "easy",
+      "stem": "What is 15% of 200?",
+      "choices": [
+        "15",
+        "20",
+        "30",
+        "45"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.15 × 200 = 30.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0004",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Word Problems",
+      "difficulty": "medium",
+      "stem": "A clerk processes 12 forms per hour. How many forms in 6.5 hours?",
+      "choices": [
+        "72",
+        "78",
+        "80",
+        "84"
+      ],
+      "correctIndex": 1,
+      "explanation": "12 × 6.5 = 78.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0005",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Logic",
+      "difficulty": "medium",
+      "stem": "All civil servants are public officers. Some public officers are engineers. Which must be true?",
+      "choices": [
+        "All engineers are civil servants",
+        "Some public officers may not be civil servants",
+        "No engineer is a public officer",
+        "All public officers are engineers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Statements do not force all public officers to be civil servants.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0006",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Data Interpretation",
+      "difficulty": "medium",
+      "stem": "If Agency A spent 40% of a ₱500,000 budget on training, how much was spent on training?",
+      "choices": [
+        "₱100,000",
+        "₱150,000",
+        "₱200,000",
+        "₱250,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.40 × 500,000 = 200,000.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0007",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Verbal Ability",
+      "topic": "Grammar",
+      "difficulty": "easy",
+      "stem": "Choose the correct sentence:",
+      "choices": [
+        "The memoranda was delayed.",
+        "The memoranda were delayed.",
+        "The memoranda is delayed yesterday.",
+        "The memoranda be delayed."
+      ],
+      "correctIndex": 1,
+      "explanation": "Memoranda is plural.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0008",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Verbal Ability",
+      "topic": "Vocabulary",
+      "difficulty": "medium",
+      "stem": "The word 'mitigate' most nearly means:",
+      "choices": [
+        "Worsen",
+        "Lessen",
+        "Ignore",
+        "Celebrate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mitigate = make less severe.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0009",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Ethics",
+      "difficulty": "medium",
+      "stem": "RA 6713 is commonly associated with:",
+      "choices": [
+        "Code of Conduct and Ethical Standards for Public Officials and Employees",
+        "Local taxation only",
+        "Marriage licenses only",
+        "Driver's licenses only"
+      ],
+      "correctIndex": 0,
+      "explanation": "RA 6713 sets ethical standards for public officials and employees.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0010",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Institutions",
+      "difficulty": "easy",
+      "stem": "Which institution is the central monetary authority of the Philippines?",
+      "choices": [
+        "BIR",
+        "BSP",
+        "DBM",
+        "COA"
+      ],
+      "correctIndex": 1,
+      "explanation": "BSP is the central bank.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0011",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Ratios",
+      "difficulty": "medium",
+      "stem": "Simplify the ratio 24:36.",
+      "choices": [
+        "2:3",
+        "3:2",
+        "4:9",
+        "1:2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Divide by 12 → 2:3.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0012",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Assumption",
+      "difficulty": "hard",
+      "stem": "Argument: 'We should digitize frontline services to reduce waiting time.' An underlying assumption is that:",
+      "choices": [
+        "Digitization can affect waiting time",
+        "Waiting time is unrelated to service delivery",
+        "Paper forms are illegal",
+        "Citizens dislike all technology always"
+      ],
+      "correctIndex": 0,
+      "explanation": "The recommendation assumes digitization can influence waiting time.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0013",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Verbal Ability",
+      "topic": "Reading Comprehension",
+      "difficulty": "medium",
+      "stem": "Based on Philippine civil service values, 'public accountability' primarily means officials must:",
+      "choices": [
+        "Answer for their conduct and use of authority/resources",
+        "Avoid all public contact",
+        "Work without records",
+        "Ignore citizen complaints always"
+      ],
+      "correctIndex": 0,
+      "explanation": "Accountability requires answerability for stewardship of public trust.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0014",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Local Government",
+      "difficulty": "medium",
+      "stem": "Barangays are:",
+      "choices": [
+        "The smallest political unit in the Philippines",
+        "Provinces",
+        "Independent countries",
+        "Only private corporations"
+      ],
+      "correctIndex": 0,
+      "explanation": "The barangay is the basic political unit.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0015",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Percentage",
+      "difficulty": "hard",
+      "stem": "A score rises from 60 to 75. What is the percent increase?",
+      "choices": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "correctIndex": 2,
+      "explanation": "(15/60)×100% = 25%.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0016",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Ordering",
+      "difficulty": "easy",
+      "stem": "Arrange in ascending order: 0.45, 1/2, 40%, 0.5",
+      "choices": [
+        "40%, 0.45, 1/2 and 0.5 (equal)",
+        "1/2, 0.45, 40%",
+        "0.5, 40%, 0.45",
+        "0.45, 40%, 0.5"
+      ],
+      "correctIndex": 0,
+      "explanation": "40%=0.40; 0.45; 0.5.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0017",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Verbal Ability",
+      "topic": "Spelling",
+      "difficulty": "easy",
+      "stem": "Which is correctly spelled?",
+      "choices": [
+        "Goverment",
+        "Government",
+        "Govermant",
+        "Govirement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Government.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0018",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Human Rights",
+      "difficulty": "medium",
+      "stem": "The Commission on Human Rights in the Philippines is an independent office created by:",
+      "choices": [
+        "A private NGO only",
+        "The 1987 Constitution",
+        "A city ordinance alone",
+        "A school handbook"
+      ],
+      "correctIndex": 1,
+      "explanation": "CHR is a constitutional independent office.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0019",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Work Problems",
+      "difficulty": "medium",
+      "stem": "If 4 clerks finish a task in 6 days, how many days for 8 clerks at the same rate?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "4×6=24 clerk-days; 24/8=3 days.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0020",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Series",
+      "difficulty": "easy",
+      "stem": "Find the next number: 2, 4, 8, 16, ?",
+      "choices": [
+        "18",
+        "20",
+        "24",
+        "32"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each term doubles; next is 32.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0021",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Philippine History",
+      "difficulty": "easy",
+      "stem": "The EDSA People Power Revolution that led to the end of the Marcos dictatorship occurred in:",
+      "choices": [
+        "1972",
+        "1986",
+        "1998",
+        "2001"
+      ],
+      "correctIndex": 1,
+      "explanation": "EDSA I was in 1986.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0022",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Verbal Ability",
+      "topic": "Analogy",
+      "difficulty": "medium",
+      "stem": "Judge is to court as teacher is to:",
+      "choices": [
+        "Hospital",
+        "Classroom",
+        "Market",
+        "Airport"
+      ],
+      "correctIndex": 1,
+      "explanation": "Workplace analogy.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0023",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Fractions",
+      "difficulty": "easy",
+      "stem": "What is 1/2 + 1/4?",
+      "choices": [
+        "1/6",
+        "2/6",
+        "3/4",
+        "1/8"
+      ],
+      "correctIndex": 2,
+      "explanation": "2/4 + 1/4 = 3/4.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0024",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "stem": "No honest employee accepts bribes. Some clerks are honest employees. Therefore:",
+      "choices": [
+        "Some clerks do not accept bribes",
+        "All clerks accept bribes",
+        "No clerk is honest",
+        "All clerks are dishonest"
+      ],
+      "correctIndex": 0,
+      "explanation": "Honest employees (including some clerks) do not accept bribes.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0025",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Public Administration",
+      "difficulty": "medium",
+      "stem": "Transparency in public service primarily means:",
+      "choices": [
+        "Hiding all records",
+        "Openness of processes and information subject to lawful limits",
+        "Publishing passwords",
+        "Avoiding citizen inquiry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transparency supports accountability within legal bounds.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0026",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Verbal Ability",
+      "topic": "Vocabulary",
+      "difficulty": "medium",
+      "stem": "The word “mitigate” most nearly means:",
+      "choices": [
+        "Worsen",
+        "Make less severe",
+        "Celebrate",
+        "Ignore"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mitigate = lessen severity.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0027",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Verbal Ability",
+      "topic": "Reading Comprehension",
+      "difficulty": "hard",
+      "stem": "An author’s tone that is sharply critical is best described as:",
+      "choices": [
+        "Neutral reporting only",
+        "Censorious / critical",
+        "Congratulatory always",
+        "Ambiguous by definition only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sharply critical tone is censorious.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0028",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Arithmetic",
+      "difficulty": "easy",
+      "stem": "15% of 200 is:",
+      "choices": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.15 × 200 = 30.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0029",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Word Problems",
+      "difficulty": "medium",
+      "stem": "A train travels 120 km in 2 hours. Average speed is:",
+      "choices": [
+        "40 km/h",
+        "50 km/h",
+        "60 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "120/2 = 60 km/h.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0030",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Data Interpretation",
+      "difficulty": "hard",
+      "stem": "If a bar chart shows Branch A=40 and Branch B=60, A is what % of B?",
+      "choices": [
+        "40%",
+        "50%",
+        "66.7% approximately",
+        "150%"
+      ],
+      "correctIndex": 2,
+      "explanation": "40/60 ≈ 66.7%.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0031",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Logical Reasoning",
+      "difficulty": "easy",
+      "stem": "If all managers are employees and Ana is a manager, then Ana is:",
+      "choices": [
+        "Not an employee",
+        "An employee",
+        "Unrelated",
+        "A customer only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Valid syllogism: Ana is an employee.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0032",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Clerical Operations",
+      "difficulty": "medium",
+      "stem": "Filing “Santos, Maria” before “Santos, Mario” follows:",
+      "choices": [
+        "Random order",
+        "Alphabetical order by given name after surname",
+        "Reverse ZIP only",
+        "Age order"
+      ],
+      "correctIndex": 1,
+      "explanation": "Same surname → order by given name.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0033",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Philippine Constitution",
+      "difficulty": "hard",
+      "stem": "The Bill of Rights is found primarily in:",
+      "choices": [
+        "Article III",
+        "Article VI only",
+        "Article X only",
+        "Article XVII only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article III is the Bill of Rights.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0034",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Philippine Government",
+      "difficulty": "easy",
+      "stem": "The three branches of the Philippine government are:",
+      "choices": [
+        "Executive, Legislative, Judicial",
+        "Army, Navy, Air Force only",
+        "DepEd, DOH, DILG only",
+        "Provinces, cities, barangays only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Separation of powers among three branches.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0035",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Current Events Orientation",
+      "difficulty": "medium",
+      "stem": "COMELEC’s primary mandate concerns:",
+      "choices": [
+        "Hospital licensing",
+        "Elections",
+        "Mining permits only",
+        "Bank supervision only"
+      ],
+      "correctIndex": 1,
+      "explanation": "COMELEC administers elections.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0036",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Verbal Ability",
+      "topic": "Analogy",
+      "difficulty": "easy",
+      "stem": "Book is to reading as fork is to:",
+      "choices": [
+        "Swimming",
+        "Eating",
+        "Flying",
+        "Painting only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tool-to-activity relationship.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0037",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Fractions",
+      "difficulty": "hard",
+      "stem": "What is 2/3 ÷ 4/5?",
+      "choices": [
+        "8/15",
+        "5/6",
+        "3/10",
+        "10/12"
+      ],
+      "correctIndex": 1,
+      "explanation": "(2/3)×(5/4)=10/12=5/6.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0038",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Assumption",
+      "difficulty": "medium",
+      "stem": "An unstated premise required for an argument to hold is an:",
+      "choices": [
+        "Illustration",
+        "Assumption",
+        "Statistic always proven",
+        "Footnote only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Assumptions are unstated supporting premises.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0039",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Ethics in Public Service",
+      "difficulty": "hard",
+      "stem": "RA 6713 primarily deals with:",
+      "choices": [
+        "Code of Conduct and Ethical Standards for Public Officials and Employees",
+        "Local agrarian reform only",
+        "Customs tariffs only",
+        "Sports development only"
+      ],
+      "correctIndex": 0,
+      "explanation": "RA 6713 is the code of conduct for public officials/employees.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0040",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Percent Change",
+      "difficulty": "easy",
+      "stem": "A price rises from 100 to 120. Percent increase is:",
+      "choices": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "correctIndex": 2,
+      "explanation": "(20/100)×100% = 20%.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0041",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Sequence",
+      "difficulty": "hard",
+      "stem": "Next in 2, 6, 12, 20, 30, … is:",
+      "choices": [
+        "36",
+        "40",
+        "42",
+        "48"
+      ],
+      "correctIndex": 2,
+      "explanation": "Differences +4,+6,+8,+10 → next +12 → 42.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0042",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Philippine History",
+      "difficulty": "easy",
+      "stem": "José Rizal was executed in:",
+      "choices": [
+        "1896",
+        "1898",
+        "1901",
+        "1872"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rizal was executed on December 30, 1896.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0043",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Verbal Ability",
+      "topic": "Paragraph Organization",
+      "difficulty": "hard",
+      "stem": "The topic sentence of a paragraph usually:",
+      "choices": [
+        "Hides the main idea",
+        "States the main idea",
+        "Must be last always by rule",
+        "Contains only statistics without claim"
+      ],
+      "correctIndex": 1,
+      "explanation": "Topic sentences state the controlling idea.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0044",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Ratio",
+      "difficulty": "medium",
+      "stem": "Simplify the ratio 18:24.",
+      "choices": [
+        "2:3",
+        "3:4",
+        "4:5",
+        "5:6"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divide by 6 → 3:4.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0045",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Analytical Ability",
+      "topic": "Decision Making",
+      "difficulty": "easy",
+      "stem": "When two policies conflict, a civil servant should primarily follow:",
+      "choices": [
+        "Personal convenience",
+        "Law, rules, and ethical standards",
+        "Rumors",
+        "Social media likes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Public service prioritizes legality and ethics.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0046",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "General Information",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "stem": "The Philippines is an archipelago located in:",
+      "choices": [
+        "Southeast Asia",
+        "Eastern Europe",
+        "Southern Africa",
+        "Central America"
+      ],
+      "correctIndex": 0,
+      "explanation": "The PH is in Southeast Asia.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0047",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Verbal Ability",
+      "topic": "Idioms",
+      "difficulty": "hard",
+      "stem": "“Hit the nail on the head” means:",
+      "choices": [
+        "Miss the point",
+        "Describe something exactly right",
+        "Build furniture only",
+        "Cause injury literally always"
+      ],
+      "correctIndex": 1,
+      "explanation": "It means to be exactly correct.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    },
+    {
+      "id": "cse-0048",
+      "examId": "cse",
+      "region": "PH",
+      "subject": "Numerical Ability",
+      "topic": "Work Rate",
+      "difficulty": "hard",
+      "stem": "A can finish a job in 6 days, B in 3 days. Together they finish in:",
+      "choices": [
+        "1 day",
+        "2 days",
+        "3 days",
+        "4 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rates 1/6 + 1/3 = 1/2 → 2 days.",
+      "country": "Philippines",
+      "regulator": "CSC"
+    }
+  ]
+}

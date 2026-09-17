@@ -1,0 +1,960 @@
+{
+  "examId": "cpale",
+  "title": "CPA Licensure Examination (CPALE)",
+  "country": "Philippines",
+  "region": "PH",
+  "disclaimer": "Original practice items for educational simulation only. Not affiliated with PRC/CSC.",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "cpale-0001",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Financial Accounting and Reporting",
+      "topic": "Conceptual Framework",
+      "difficulty": "medium",
+      "stem": "Under the Conceptual Framework used in PH financial reporting (PFRS-aligned), the objective of general purpose financial reporting is primarily to provide information that is:",
+      "choices": [
+        "Useful to existing and potential investors, lenders, and other creditors",
+        "Useful only to tax examiners",
+        "Useful only to marketing teams",
+        "Confidential to management alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "General purpose financial reports aim to provide decision-useful information to primary users.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0002",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Financial Accounting and Reporting",
+      "topic": "Assets",
+      "difficulty": "medium",
+      "stem": "An item is recognized as an asset when it is probable that future economic benefits will flow to the entity and:",
+      "choices": [
+        "The cost or value can be measured reliably",
+        "It has no cost",
+        "Managers verbally promise it exists",
+        "It is illegal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Recognition criteria emphasize probable benefits and reliable measurement.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0003",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Advanced Financial Accounting and Reporting",
+      "topic": "Business Combinations",
+      "difficulty": "hard",
+      "stem": "In an acquisition, goodwill is generally measured as:",
+      "choices": [
+        "Consideration transferred minus net identifiable assets acquired (simplified)",
+        "Always zero",
+        "Only legal capital",
+        "Retained earnings beginning balance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Goodwill arises when consideration exceeds net identifiable assets acquired.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0004",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Management Advisory Services",
+      "topic": "CVP Analysis",
+      "difficulty": "medium",
+      "stem": "Break-even point in units equals:",
+      "choices": [
+        "Fixed costs / contribution margin per unit",
+        "Variable costs / selling price",
+        "Sales / fixed costs",
+        "Contribution margin / variable costs"
+      ],
+      "correctIndex": 0,
+      "explanation": "BEP units = FC / CM per unit.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0005",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Management Advisory Services",
+      "topic": "Budgeting",
+      "difficulty": "easy",
+      "stem": "A flexible budget adjusts for changes in:",
+      "choices": [
+        "Activity level",
+        "The corporate logo only",
+        "External audit fees only",
+        "Board meeting dates only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flexible budgets restate for actual activity levels.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0006",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Auditing",
+      "topic": "Audit Evidence",
+      "difficulty": "medium",
+      "stem": "Which is generally the most reliable form of audit evidence?",
+      "choices": [
+        "Oral inquiry alone",
+        "External confirmation from a third party",
+        "Client-prepared spreadsheet without corroboration",
+        "Unsigned photocopy only"
+      ],
+      "correctIndex": 1,
+      "explanation": "External confirmations are typically highly reliable.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0007",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Auditing",
+      "topic": "Internal Control",
+      "difficulty": "medium",
+      "stem": "Segregation of duties primarily helps prevent:",
+      "choices": [
+        "All natural disasters",
+        "Fraud and error by reducing opportunity for concealment",
+        "Tax rate changes",
+        "Currency appreciation"
+      ],
+      "correctIndex": 1,
+      "explanation": "SOD reduces opportunities for error and fraud.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0008",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Taxation",
+      "topic": "Income Tax",
+      "difficulty": "medium",
+      "stem": "In the Philippines, the agency primarily administering national internal revenue taxes is:",
+      "choices": [
+        "SEC",
+        "BIR",
+        "BSP",
+        "COA"
+      ],
+      "correctIndex": 1,
+      "explanation": "BIR administers national internal revenue taxes.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0009",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Taxation",
+      "topic": "VAT",
+      "difficulty": "hard",
+      "stem": "VAT in the Philippines is generally a tax on:",
+      "choices": [
+        "Consumption / value added on sale of goods/services (with rules/exceptions)",
+        "Only inheritance",
+        "Only real property tax at LGU exclusively",
+        "Professional IDs only"
+      ],
+      "correctIndex": 0,
+      "explanation": "VAT is an indirect tax on consumption under the NIRC framework.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0010",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Regulatory Framework for Business Transactions",
+      "topic": "Obligations and Contracts",
+      "difficulty": "medium",
+      "stem": "Under the Civil Code, a contract generally requires:",
+      "choices": [
+        "Consent, object, and cause",
+        "Only a handshake abroad",
+        "Only notarial seal without consent",
+        "Only government license for all private sales of candy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Essential requisites: consent, object, and cause.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0011",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Regulatory Framework for Business Transactions",
+      "topic": "Partnership",
+      "difficulty": "easy",
+      "stem": "A partnership in Philippine law is formed by:",
+      "choices": [
+        "Two or more persons binding themselves to contribute money/property/industry to a common fund with intention to divide profits",
+        "A single person always",
+        "The BIR alone",
+        "Voters in a barangay assembly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Partnership definition tracks Civil Code provisions.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0012",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Financial Accounting and Reporting",
+      "topic": "Inventory",
+      "difficulty": "medium",
+      "stem": "Which inventory cost flow assumption is an accounting policy choice that can affect COGS and ending inventory under PFRS?",
+      "choices": [
+        "FIFO",
+        "GDP",
+        "CPI",
+        "PnL only as a person"
+      ],
+      "correctIndex": 0,
+      "explanation": "FIFO (and weighted average; LIFO not allowed under IFRS/PFRS).",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0013",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Advanced Financial Accounting and Reporting",
+      "topic": "Consolidation",
+      "difficulty": "hard",
+      "stem": "Consolidated financial statements are generally prepared when a parent:",
+      "choices": [
+        "Controls a subsidiary",
+        "Owns any single share of any company",
+        "Pays any supplier",
+        "Registers a trade name only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Control drives consolidation of subsidiaries.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0014",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Management Advisory Services",
+      "topic": "Relevant Costing",
+      "difficulty": "medium",
+      "stem": "In a special order decision, management should focus on:",
+      "choices": [
+        "Sunk costs from five years ago only",
+        "Incremental revenues and incremental costs",
+        "Allocated unavoidable fixed costs only",
+        "Historical purchase price of the factory land only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Relevant costs/revenues differ among alternatives.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0015",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Auditing",
+      "topic": "Audit Report",
+      "difficulty": "medium",
+      "stem": "An unmodified opinion means the auditor concludes financial statements are:",
+      "choices": [
+        "Presented fairly, in all material respects, in accordance with the applicable framework",
+        "Guaranteed profitable next year",
+        "Free from all immaterial typos somehow certified impossible",
+        "Approved by Congress"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unmodified opinion = fair presentation in all material respects.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0016",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Taxation",
+      "topic": "Withholding",
+      "difficulty": "easy",
+      "stem": "Expanded withholding tax in the PH system generally requires certain payors to:",
+      "choices": [
+        "Ignore tax entirely",
+        "Withhold and remit tax on specified income payments",
+        "Pay only real property tax",
+        "File only barangay clearances"
+      ],
+      "correctIndex": 1,
+      "explanation": "EWT requires withholding agents to withhold/remit on covered payments.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0017",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Regulatory Framework for Business Transactions",
+      "topic": "Negotiable Instruments",
+      "difficulty": "hard",
+      "stem": "A negotiable promissory note must be:",
+      "choices": [
+        "An unconditional promise in writing to pay a sum certain in money, among other NIL requisites",
+        "A verbal IOU only",
+        "Payable in goods only",
+        "Always non-transferable"
+      ],
+      "correctIndex": 0,
+      "explanation": "NIL sets formal requisites for negotiability.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0018",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Financial Accounting and Reporting",
+      "topic": "Revenue",
+      "difficulty": "medium",
+      "stem": "Under PFRS 15, revenue from contracts with customers is recognized when:",
+      "choices": [
+        "Performance obligations are satisfied (control transfers), subject to the 5-step model",
+        "Cash is always received regardless of performance",
+        "The fiscal year ends only",
+        "The board votes without a contract"
+      ],
+      "correctIndex": 0,
+      "explanation": "PFRS 15 uses a five-step model.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0019",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Management Advisory Services",
+      "topic": "Capital Budgeting",
+      "difficulty": "hard",
+      "stem": "Net present value (NPV) decision rule for independent projects typically accepts when NPV is:",
+      "choices": [
+        "Negative",
+        "Zero only forever",
+        "Positive",
+        "Undefined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Positive NPV projects are expected to add value.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0020",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Auditing",
+      "topic": "Professional Standards",
+      "difficulty": "easy",
+      "stem": "Independence is critical in auditing because it:",
+      "choices": [
+        "Is unrelated to credibility",
+        "Supports unbiased assurance and public confidence",
+        "Only matters for bookkeepers",
+        "Replaces competence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Independence underpins audit credibility.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0021",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Taxation",
+      "topic": "Percentage Tax",
+      "difficulty": "medium",
+      "stem": "A non-VAT registered person in the PH may be subject to percentage tax on:",
+      "choices": [
+        "Certain gross receipts subject to rules",
+        "Only foreign exchange always",
+        "Only import tariffs exclusively",
+        "Only estate tax"
+      ],
+      "correctIndex": 0,
+      "explanation": "Percentage taxes apply to certain non-VAT taxpayers/receipts under the NIRC.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0022",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Financial Accounting and Reporting",
+      "topic": "PPE",
+      "difficulty": "medium",
+      "stem": "Depreciation allocates the depreciable amount of an asset over:",
+      "choices": [
+        "Its useful life",
+        "One day always",
+        "Infinite time",
+        "Only leap years"
+      ],
+      "correctIndex": 0,
+      "explanation": "Depreciation is systematic allocation over useful life.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0023",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Management Advisory Services",
+      "topic": "Standard Costing",
+      "difficulty": "easy",
+      "stem": "A favorable materials price variance means actual price was:",
+      "choices": [
+        "Higher than standard",
+        "Lower than standard",
+        "Equal to BOM quantity only",
+        "Unrelated to price"
+      ],
+      "correctIndex": 1,
+      "explanation": "Favorable price variance: actual < standard price.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0024",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Regulatory Framework for Business Transactions",
+      "topic": "Corporation",
+      "difficulty": "medium",
+      "stem": "Under the Revised Corporation Code of the Philippines, a corporation is:",
+      "choices": [
+        "An artificial being created by operation of law",
+        "Always a natural person",
+        "Only a partnership",
+        "Only a cooperative"
+      ],
+      "correctIndex": 0,
+      "explanation": "A corporation is an artificial being created by law.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0025",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Auditing",
+      "topic": "Risk Assessment",
+      "difficulty": "hard",
+      "stem": "Inherent risk is the susceptibility of an assertion to misstatement:",
+      "choices": [
+        "Assuming no related controls",
+        "After all controls operate perfectly always",
+        "Only after the audit report",
+        "Only for tax returns"
+      ],
+      "correctIndex": 0,
+      "explanation": "Inherent risk is assessed before considering controls.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0026",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Financial Accounting and Reporting",
+      "topic": "Conceptual Framework",
+      "difficulty": "easy",
+      "stem": "The primary users of general purpose financial statements include:",
+      "choices": [
+        "Only janitorial staff",
+        "Investors and creditors",
+        "Only competitors abroad",
+        "Sports referees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Investors and creditors are key GPFS users.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0027",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Financial Accounting and Reporting",
+      "topic": "Revenue",
+      "difficulty": "hard",
+      "stem": "Under PFRS 15, revenue is recognized when:",
+      "choices": [
+        "Cash is always received regardless of performance",
+        "Performance obligations are satisfied",
+        "A contract is merely drafted",
+        "Inventory is purchased"
+      ],
+      "correctIndex": 1,
+      "explanation": "Revenue follows satisfaction of performance obligations.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0028",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Advanced Financial Accounting and Reporting",
+      "topic": "Business Combinations",
+      "difficulty": "medium",
+      "stem": "Goodwill in a business combination arises when:",
+      "choices": [
+        "Consideration is less than net identifiable assets always",
+        "Consideration exceeds the net of identifiable assets acquired and liabilities assumed",
+        "No subsidiary exists",
+        "Only cash is held"
+      ],
+      "correctIndex": 1,
+      "explanation": "Goodwill reflects excess consideration over net identifiable amounts.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0029",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Management Advisory Services",
+      "topic": "CVP Analysis",
+      "difficulty": "easy",
+      "stem": "Contribution margin equals:",
+      "choices": [
+        "Sales − variable costs",
+        "Sales − fixed costs only",
+        "Fixed costs − sales",
+        "Assets − liabilities"
+      ],
+      "correctIndex": 0,
+      "explanation": "CM = Sales − Variable costs.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0030",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Management Advisory Services",
+      "topic": "Budgeting",
+      "difficulty": "hard",
+      "stem": "A flexible budget adjusts primarily for:",
+      "choices": [
+        "Changes in activity levels",
+        "Only CEO preferences with no activity link",
+        "Tax holidays alone",
+        "Depreciation methods only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flexible budgets restate costs/revenues for actual activity.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0031",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Auditing",
+      "topic": "Risk Assessment",
+      "difficulty": "medium",
+      "stem": "Detection risk is the risk that:",
+      "choices": [
+        "Controls always fail",
+        "Auditor procedures will not detect a material misstatement",
+        "Clients never err",
+        "Markets crash"
+      ],
+      "correctIndex": 1,
+      "explanation": "Detection risk relates to audit procedures failing to detect misstatements.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0032",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Auditing",
+      "topic": "Evidence",
+      "difficulty": "easy",
+      "stem": "Which is generally more reliable?",
+      "choices": [
+        "Oral inquiry alone always",
+        "External confirmation from a third party",
+        "Unsigned internal note without support",
+        "Anonymous rumor"
+      ],
+      "correctIndex": 1,
+      "explanation": "External confirmations are often highly reliable evidence.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0033",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Taxation",
+      "topic": "Income Tax",
+      "difficulty": "medium",
+      "stem": "In Philippine income taxation, deductible ordinary and necessary expenses generally must be:",
+      "choices": [
+        "Illegal bribes",
+        "Ordinary, necessary, and substantiated in trade or business",
+        "Personal gifts only",
+        "Political contributions always deductible"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deductible expenses must be ordinary, necessary, and properly supported.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0034",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Taxation",
+      "topic": "VAT",
+      "difficulty": "hard",
+      "stem": "VAT on vatable sales of goods is generally based on:",
+      "choices": [
+        "Gross selling price / appropriate tax base under the NIRC rules",
+        "Employee age",
+        "Only square meters of office",
+        "PRC license number"
+      ],
+      "correctIndex": 0,
+      "explanation": "VAT follows statutory tax bases such as gross selling price/deemed values.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0035",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Regulatory Framework for Business Transactions",
+      "topic": "Obligations",
+      "difficulty": "easy",
+      "stem": "An obligation is a juridical necessity to:",
+      "choices": [
+        "Ignore contracts",
+        "Give, to do, or not to do",
+        "Vote in COMELEC only",
+        "Pass CPALE only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Civil Code: obligation is to give, to do, or not to do.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0036",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Regulatory Framework for Business Transactions",
+      "topic": "Contracts",
+      "difficulty": "hard",
+      "stem": "A contract that is absolutely simulated is generally:",
+      "choices": [
+        "Always enforceable as written",
+        "Void",
+        "Automatically notarized as valid",
+        "Tax-exempt always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Absolute simulation typically renders a contract void.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0037",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Financial Accounting and Reporting",
+      "topic": "Inventories",
+      "difficulty": "medium",
+      "stem": "Under PAS 2, inventories are measured at:",
+      "choices": [
+        "Higher of cost and NRV",
+        "Lower of cost and net realizable value",
+        "Replacement cost only always",
+        "Par value"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inventories are at lower of cost and NRV.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0038",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Advanced Financial Accounting and Reporting",
+      "topic": "Foreign Currency",
+      "difficulty": "hard",
+      "stem": "A foreign currency transaction monetary item is generally retranslated at:",
+      "choices": [
+        "Historical rate forever only",
+        "Closing rate at reporting date",
+        "Random rates",
+        "Par value of shares"
+      ],
+      "correctIndex": 1,
+      "explanation": "Monetary items are translated at the closing rate.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0039",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Management Advisory Services",
+      "topic": "Relevant Costing",
+      "difficulty": "easy",
+      "stem": "A sunk cost is:",
+      "choices": [
+        "Always differential for future decisions",
+        "A past cost not relevant to future decisions",
+        "Always equal to opportunity cost",
+        "Never recorded historically"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sunk costs are past and typically irrelevant going forward.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0040",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Auditing",
+      "topic": "Internal Control",
+      "difficulty": "hard",
+      "stem": "Segregation of duties primarily reduces:",
+      "choices": [
+        "Inherent business risk to zero",
+        "Opportunity for fraud and error through combined incompatible functions",
+        "All audit fees",
+        "Tax rates"
+      ],
+      "correctIndex": 1,
+      "explanation": "Separating custody, recording, and authorization strengthens control.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0041",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Taxation",
+      "topic": "Percentage Tax",
+      "difficulty": "easy",
+      "stem": "Percentage tax generally applies to:",
+      "choices": [
+        "Certain persons exempt from VAT / as provided by law",
+        "All employees’ SSS only",
+        "Only real property tax",
+        "Only customs duties"
+      ],
+      "correctIndex": 0,
+      "explanation": "Percentage tax applies in cases set by the NIRC (e.g., non-VAT persons).",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0042",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Financial Accounting and Reporting",
+      "topic": "PPE",
+      "difficulty": "medium",
+      "stem": "Depreciation allocates the depreciable amount of an asset:",
+      "choices": [
+        "Only when sold",
+        "Systematically over its useful life",
+        "Never under PFRS",
+        "Only to retained earnings directly always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Depreciation is systematic allocation over useful life.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0043",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Regulatory Framework for Business Transactions",
+      "topic": "Negotiable Instruments",
+      "difficulty": "medium",
+      "stem": "A check is generally an instrument that is:",
+      "choices": [
+        "Not negotiable by nature",
+        "Drawn on a bank payable on demand",
+        "Always a time bill only",
+        "Issued only by courts"
+      ],
+      "correctIndex": 1,
+      "explanation": "A check is a bill of exchange drawn on a bank payable on demand.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0044",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Management Advisory Services",
+      "topic": "Capital Budgeting",
+      "difficulty": "hard",
+      "stem": "NPV accepts a project when:",
+      "choices": [
+        "NPV is negative",
+        "NPV is zero or positive (at the hurdle rate framework used)",
+        "Payback is ignored always and NPV never used",
+        "IRR is undefined always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Positive (or non-negative) NPV indicates value creation at the discount rate.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0045",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Auditing",
+      "topic": "Reports",
+      "difficulty": "easy",
+      "stem": "An unmodified opinion means the auditor concludes FS are:",
+      "choices": [
+        "Materially misstated",
+        "Presented fairly, in all material respects",
+        "Useless",
+        "Unaudited"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unmodified opinion = fair presentation in all material respects.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0046",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Taxation",
+      "topic": "Withholding",
+      "difficulty": "hard",
+      "stem": "Expanded withholding tax generally obligates certain payors to:",
+      "choices": [
+        "Ignore BIR rules",
+        "Withhold and remit tax on specific income payments",
+        "Pay only real property tax",
+        "Stop all vendor payments forever"
+      ],
+      "correctIndex": 1,
+      "explanation": "EWT requires withholding/remittance on covered payments.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0047",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Advanced Financial Accounting and Reporting",
+      "topic": "Partnerships",
+      "difficulty": "easy",
+      "stem": "In the absence of an agreement, partnership profits are shared:",
+      "choices": [
+        "Equally",
+        "Only by seniority",
+        "Only by age",
+        "Never shared"
+      ],
+      "correctIndex": 0,
+      "explanation": "Civil Code default: equal sharing if silent.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0048",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Financial Accounting and Reporting",
+      "topic": "Cash Flows",
+      "difficulty": "medium",
+      "stem": "Interest paid is often classified under PAS 7 as:",
+      "choices": [
+        "Only equity",
+        "Operating or financing (accounting policy / presentation rules)",
+        "Never disclosed",
+        "Only OCI forever"
+      ],
+      "correctIndex": 1,
+      "explanation": "PAS 7 allows certain classification choices with consistency.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0049",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Regulatory Framework for Business Transactions",
+      "topic": "Sales",
+      "difficulty": "hard",
+      "stem": "Risk of loss in a sale of goods generally passes based on:",
+      "choices": [
+        "Buyer’s zodiac sign",
+        "Delivery / intention and agreed terms under the Civil Code rules",
+        "Always at manufacture",
+        "Never until resale to a fourth party"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transfer of ownership/risk follows delivery and contractual intent rules.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cpale-0050",
+      "examId": "cpale",
+      "region": "PH",
+      "subject": "Management Advisory Services",
+      "topic": "Responsibility Accounting",
+      "difficulty": "medium",
+      "stem": "A cost center manager is primarily evaluated on:",
+      "choices": [
+        "Only revenues",
+        "Controllable costs / efficiency of resource use",
+        "Only share price",
+        "Only tax clearance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cost centers focus on cost control and efficiency.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    }
+  ]
+}

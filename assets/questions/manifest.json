@@ -1,0 +1,34 @@
+{
+  "region": "PH",
+  "country": "Philippines",
+  "exams": [
+    {
+      "id": "let",
+      "asset": "assets/questions/let.json"
+    },
+    {
+      "id": "pnle",
+      "asset": "assets/questions/pnle.json"
+    },
+    {
+      "id": "cpale",
+      "asset": "assets/questions/cpale.json"
+    },
+    {
+      "id": "cele",
+      "asset": "assets/questions/cele.json"
+    },
+    {
+      "id": "cse",
+      "asset": "assets/questions/cse.json"
+    },
+    {
+      "id": "ale",
+      "asset": "assets/questions/ale.json"
+    },
+    {
+      "id": "cle",
+      "asset": "assets/questions/cle.json"
+    }
+  ]
+}

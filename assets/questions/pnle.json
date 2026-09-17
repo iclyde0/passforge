@@ -1,0 +1,960 @@
+{
+  "examId": "pnle",
+  "title": "Philippine Nurse Licensure Examination (PNLE)",
+  "country": "Philippines",
+  "region": "PH",
+  "disclaimer": "Original practice items for educational simulation only. Not affiliated with PRC/CSC.",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "pnle-0001",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "Primary Health Care",
+      "difficulty": "medium",
+      "stem": "In the Philippine health system, Primary Health Care (PHC) emphasizes:",
+      "choices": [
+        "Hospital-only specialty care",
+        "Community participation and accessible essential care",
+        "Ignoring barangay health workers",
+        "Curative care exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "PHC stresses accessible, community-based, participatory essential health care.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0002",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "DOH Programs",
+      "difficulty": "medium",
+      "stem": "Which Philippine program focuses on expanded immunization for children?",
+      "choices": [
+        "National Tuberculosis Program only",
+        "Expanded Program on Immunization (EPI)",
+        "PhilHealth Konsulta only",
+        "Mental Health Act alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "EPI is the DOH immunization program.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0003",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Maternal and Child",
+      "topic": "Prenatal Care",
+      "difficulty": "medium",
+      "stem": "A multipara at 28 weeks should be advised that fetal movement counting is important because:",
+      "choices": [
+        "It replaces all ultrasound needs",
+        "Changes in pattern may signal fetal compromise needing evaluation",
+        "It diagnoses gestational diabetes",
+        "It measures maternal BP"
+      ],
+      "correctIndex": 1,
+      "explanation": "Decreased/altered fetal movements warrant assessment.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0004",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Maternal and Child",
+      "topic": "Newborn Care",
+      "difficulty": "easy",
+      "stem": "Immediate newborn care in PH facilities commonly includes:",
+      "choices": [
+        "Delaying drying for one hour",
+        "Drying, skin-to-skin, properly timed cord care, and breastfeeding initiation",
+        "Bottle feeding as first option always",
+        "Separating mother and baby routinely for 24 hours"
+      ],
+      "correctIndex": 1,
+      "explanation": "Essential newborn care pathways emphasize drying, bonding, cord care, and early breastfeeding.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0005",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Medical-Surgical",
+      "topic": "Cardiovascular",
+      "difficulty": "hard",
+      "stem": "A client with hypertension on a low-sodium diet asks why. The best nursing explanation is that excess sodium may:",
+      "choices": [
+        "Decrease circulating volume",
+        "Contribute to fluid retention and elevate blood pressure",
+        "Cure atherosclerosis instantly",
+        "Replace the need for medication always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sodium promotes fluid retention which can raise BP.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0006",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Medical-Surgical",
+      "topic": "Infection Control",
+      "difficulty": "easy",
+      "stem": "The most effective single measure to prevent healthcare-associated infection is:",
+      "choices": [
+        "Wearing jewelry during procedures",
+        "Hand hygiene",
+        "Skipping PPE when rushed",
+        "Recapping needles using two hands"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hand hygiene remains the cornerstone of infection prevention.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0007",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Mental Health",
+      "topic": "Therapeutic Communication",
+      "difficulty": "medium",
+      "stem": "Which response is most therapeutic for an anxious client before surgery?",
+      "choices": [
+        "Don't worry, it's nothing.",
+        "Tell me what concerns you most right now.",
+        "Everyone feels the same.",
+        "You shouldn't feel that way."
+      ],
+      "correctIndex": 1,
+      "explanation": "Open, exploring responses validate feelings and gather data.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0008",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Mental Health",
+      "topic": "Psychopharmacology",
+      "difficulty": "hard",
+      "stem": "A client on an MAOI should be taught to avoid foods high in:",
+      "choices": [
+        "Vitamin C",
+        "Tyramine",
+        "Fiber",
+        "Water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tyramine + MAOI risks hypertensive crisis.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0009",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice V - Nursing Care Management",
+      "topic": "Ethics and Jurisprudence",
+      "difficulty": "medium",
+      "stem": "In the Philippines, professional nurses are regulated primarily through:",
+      "choices": [
+        "Barangay ordinances only",
+        "PRC / Board of Nursing and related nursing laws",
+        "DepEd only",
+        "COMELEC"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nursing practice/licensure is under PRC and the Board of Nursing.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0010",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice V - Nursing Care Management",
+      "topic": "Leadership",
+      "difficulty": "medium",
+      "stem": "When a staff nurse delegates to a nursing aide, the RN remains accountable for:",
+      "choices": [
+        "Nothing after delegation",
+        "Appropriate assignment, communication, and evaluation of outcomes",
+        "Only the aide's salary",
+        "Physician charting only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The RN retains accountability for the delegation process and outcomes.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0011",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "Family Nursing",
+      "difficulty": "medium",
+      "stem": "In Philippine family nursing, the family is viewed primarily as:",
+      "choices": [
+        "An irrelevant unit of care",
+        "A client system and partner in care",
+        "A barrier always",
+        "A substitute for public health law"
+      ],
+      "correctIndex": 1,
+      "explanation": "Family-centered community nursing treats the family as a unit of care.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0012",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Medical-Surgical",
+      "topic": "Respiratory",
+      "difficulty": "medium",
+      "stem": "Positioning a client with dyspnea in high Fowler's primarily helps by:",
+      "choices": [
+        "Decreasing lung expansion",
+        "Promoting maximal lung expansion and easing breathing",
+        "Increasing aspiration risk intentionally",
+        "Immobilizing the diaphragm only"
+      ],
+      "correctIndex": 1,
+      "explanation": "High Fowler's facilitates ventilation.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0013",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Maternal and Child",
+      "topic": "Labor and Delivery",
+      "difficulty": "hard",
+      "stem": "During the first stage of labor, nursing care prioritizes monitoring:",
+      "choices": [
+        "Only paternal vital signs",
+        "Maternal-fetal status, contractions, and progress of labor",
+        "Postpartum involution exclusively",
+        "Newborn hearing screen only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stage 1 care centers on labor progress and maternal-fetal well-being.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0014",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Mental Health",
+      "topic": "Crisis Intervention",
+      "difficulty": "medium",
+      "stem": "Priority nursing action for a client with active suicidal ideation and a plan is:",
+      "choices": [
+        "Leave the client alone to rest",
+        "Ensure safety and initiate appropriate precautions/referral",
+        "Argue that suicide is wrong only",
+        "Confiscate nothing and delay reporting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Safety first: protect the client and escalate per protocol.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0015",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice V - Nursing Care Management",
+      "topic": "Documentation",
+      "difficulty": "easy",
+      "stem": "Accurate nursing documentation is essential because it:",
+      "choices": [
+        "Is optional if care was given",
+        "Communicates care, supports continuity, and has legal significance",
+        "Replaces all verbal handoffs always",
+        "Should include guesses as facts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Documentation is a legal and clinical responsibility.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0016",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "Epidemiology",
+      "difficulty": "hard",
+      "stem": "Incidence rate measures:",
+      "choices": [
+        "Existing cases at a point in time only",
+        "New cases in a population over a specified period",
+        "Only hospital bed occupancy",
+        "Vaccine manufacturing cost"
+      ],
+      "correctIndex": 1,
+      "explanation": "Incidence = new cases over time.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0017",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Medical-Surgical",
+      "topic": "Endocrine",
+      "difficulty": "medium",
+      "stem": "A client with Type 2 diabetes should be taught that hypoglycemia may present with:",
+      "choices": [
+        "Only hypertension always",
+        "Sweating, tremors, confusion, hunger",
+        "Increased urination as the only sign",
+        "No symptoms ever"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adrenergic and neuroglycopenic signs are key teaching points.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0018",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Maternal and Child",
+      "topic": "Pediatric Growth",
+      "difficulty": "easy",
+      "stem": "Exclusive breastfeeding is recommended for about the first:",
+      "choices": [
+        "2 weeks",
+        "6 months",
+        "18 months without any foods ever after",
+        "3 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "Guidance commonly emphasizes ~6 months exclusive breastfeeding.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0019",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice V - Nursing Care Management",
+      "topic": "Quality Improvement",
+      "difficulty": "medium",
+      "stem": "A unit tracks catheter-associated UTI rates monthly. This is an example of:",
+      "choices": [
+        "Ignoring outcomes",
+        "Quality indicator monitoring for improvement",
+        "Unrelated to nursing care",
+        "Punishment-only management"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tracking infection rates is QI/patient safety measurement.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0020",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Mental Health",
+      "topic": "Anxiety",
+      "difficulty": "easy",
+      "stem": "Mild anxiety can be helpful because it may:",
+      "choices": [
+        "Always destroy concentration",
+        "Increase alertness and learning readiness",
+        "Cause psychosis immediately",
+        "Eliminate the need for coping skills"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mild anxiety can enhance focus.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0021",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "IMCI",
+      "difficulty": "medium",
+      "stem": "In community child health, IMCI primarily integrates:",
+      "choices": [
+        "Only surgical referrals",
+        "Assessment and management of common childhood illnesses in a standardized way",
+        "Only adult cardiac care",
+        "Only dental aesthetics"
+      ],
+      "correctIndex": 1,
+      "explanation": "IMCI is a key child health strategy in PH community nursing contexts.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0022",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Medical-Surgical",
+      "topic": "Fluids",
+      "difficulty": "medium",
+      "stem": "Which finding most suggests fluid volume deficit?",
+      "choices": [
+        "Bounding pulses and edema",
+        "Dry mucous membranes and tachycardia",
+        "Weight gain only from muscle",
+        "Hypertension with jugular distention only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dehydration/hypovolemia signs include dry membranes and tachycardia.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0023",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Maternal and Child",
+      "topic": "Family Planning",
+      "difficulty": "easy",
+      "stem": "In Philippine RH/FP counseling, informed choice means the client:",
+      "choices": [
+        "Is forced into one method",
+        "Receives accurate information and freely chooses a method",
+        "Skips all counseling",
+        "Uses only emergency care"
+      ],
+      "correctIndex": 1,
+      "explanation": "Informed choice is foundational to FP counseling ethics.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0024",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice V - Nursing Care Management",
+      "topic": "Prioritization",
+      "difficulty": "hard",
+      "stem": "Which client should the nurse see first?",
+      "choices": [
+        "Stable client requesting water",
+        "Client with sudden dyspnea and O2 sat dropping",
+        "Client due for routine vitamin dose",
+        "Client asking about discharge papers"
+      ],
+      "correctIndex": 1,
+      "explanation": "ABCs / unstable airway-breathing threats come first.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0025",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Mental Health",
+      "topic": "Therapeutic Milieu",
+      "difficulty": "medium",
+      "stem": "A therapeutic milieu on a psych unit emphasizes:",
+      "choices": [
+        "Chaotic unpredictable rules",
+        "A structured, safe environment that supports recovery",
+        "Isolation from all staff",
+        "Punishment as the only intervention"
+      ],
+      "correctIndex": 1,
+      "explanation": "Milieu therapy uses the environment itself as a therapeutic tool.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0026",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "Primary Health Care",
+      "difficulty": "easy",
+      "stem": "Barangay Health Workers mainly support:",
+      "choices": [
+        "Only tertiary ICU care",
+        "Community-based health services and PHC",
+        "Airline nursing only",
+        "PRC exam proctoring"
+      ],
+      "correctIndex": 1,
+      "explanation": "BHWs are vital partners in community PHC delivery.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0027",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "Epidemiology",
+      "difficulty": "hard",
+      "stem": "Incidence rate best measures:",
+      "choices": [
+        "All existing cases at one time only",
+        "New cases in a population over a period",
+        "Hospital bed capacity",
+        "Nursing staff ratios alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Incidence focuses on new cases over time.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0028",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Care of Healthy/At Risk Mother and Child",
+      "topic": "Prenatal Care",
+      "difficulty": "easy",
+      "stem": "Folic acid supplementation in pregnancy primarily helps prevent:",
+      "choices": [
+        "Neural tube defects",
+        "Color blindness",
+        "Otitis media only",
+        "Dental caries only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adequate folate reduces neural tube defect risk.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0029",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Care of Healthy/At Risk Mother and Child",
+      "topic": "Newborn Care",
+      "difficulty": "medium",
+      "stem": "Immediate drying and skin-to-skin contact after birth primarily supports:",
+      "choices": [
+        "Delayed bonding intentionally",
+        "Thermoregulation and early bonding/breastfeeding",
+        "Avoiding colostrum",
+        "Routine separation only"
+      ],
+      "correctIndex": 1,
+      "explanation": "ESSENTIAL newborn care promotes warmth, bonding, and breastfeeding.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0030",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Fluid and Electrolytes",
+      "difficulty": "hard",
+      "stem": "A client with vomiting and nasogastric suction is most at risk for:",
+      "choices": [
+        "Metabolic alkalosis",
+        "Respiratory acidosis only",
+        "Hyperchloremic acidosis always",
+        "No electrolyte change"
+      ],
+      "correctIndex": 0,
+      "explanation": "Loss of gastric acid predisposes to metabolic alkalosis.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0031",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Cardiovascular",
+      "difficulty": "medium",
+      "stem": "Nitroglycerin for angina primarily acts by:",
+      "choices": [
+        "Increasing myocardial oxygen demand",
+        "Reducing preload via vasodilation",
+        "Raising blood viscosity",
+        "Blocking all insulin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nitrates dilate vessels and reduce preload/oxygen demand.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0032",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Infection Control",
+      "difficulty": "easy",
+      "stem": "Hand hygiene is considered:",
+      "choices": [
+        "Optional if gloves are available",
+        "The single most important infection prevention measure",
+        "Only for surgeons",
+        "Useless in the community"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hand hygiene is foundational to infection prevention.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0033",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Mental Health",
+      "difficulty": "hard",
+      "stem": "Therapeutic communication that reflects the client’s feelings is called:",
+      "choices": [
+        "Probing",
+        "Reflection",
+        "False reassurance",
+        "Changing the subject"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reflection mirrors feelings to deepen understanding.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0034",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "DOH Programs",
+      "difficulty": "hard",
+      "stem": "PhilHealth Konsulta is best described as:",
+      "choices": [
+        "A boarding school program",
+        "An outpatient primary care benefit package",
+        "A PRC specialty board",
+        "An exclusive private ICU voucher"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konsulta expands outpatient primary care benefits.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0035",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Care of Healthy/At Risk Mother and Child",
+      "topic": "Immunization",
+      "difficulty": "easy",
+      "stem": "BCG vaccine is primarily given to protect against:",
+      "choices": [
+        "Measles only",
+        "Severe forms of tuberculosis",
+        "Tetanus alone",
+        "Hepatitis A only"
+      ],
+      "correctIndex": 1,
+      "explanation": "BCG protects against severe TB disease, especially in children.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0036",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Respiratory",
+      "difficulty": "easy",
+      "stem": "Incentive spirometry after surgery mainly prevents:",
+      "choices": [
+        "Atelectasis",
+        "Appendicitis",
+        "Otitis externa",
+        "Renal stones"
+      ],
+      "correctIndex": 0,
+      "explanation": "Deep breathing with incentive spirometry helps prevent atelectasis.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0037",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Endocrine",
+      "difficulty": "medium",
+      "stem": "In hypoglycemia, the priority nursing action is often to:",
+      "choices": [
+        "Give insulin immediately",
+        "Provide a rapid-acting carbohydrate if the client can swallow safely",
+        "Ignore symptoms",
+        "Force a high-fat meal only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Treat low blood glucose promptly with appropriate carbs when safe.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0038",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Pharmacology",
+      "difficulty": "hard",
+      "stem": "Before giving digoxin, the nurse should primarily check:",
+      "choices": [
+        "Only visual acuity",
+        "Apical pulse / heart rate as policy requires",
+        "Only urine color",
+        "Only BMI"
+      ],
+      "correctIndex": 1,
+      "explanation": "Digoxin requires heart-rate assessment due to bradycardia risk.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0039",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "Family Nursing",
+      "difficulty": "medium",
+      "stem": "A family nursing care plan should be:",
+      "choices": [
+        "Nurse-centered only",
+        "Collaborative with the family’s priorities and resources",
+        "Secret from the family",
+        "Limited to hospital ICD codes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Family nursing partners with the family’s goals and capacity.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0040",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Care of Healthy/At Risk Mother and Child",
+      "topic": "Labor and Delivery",
+      "difficulty": "hard",
+      "stem": "A prolonged second stage of labor increases risk for:",
+      "choices": [
+        "Maternal and fetal compromise if unmanaged",
+        "Guaranteed normal outcome only",
+        "Automatic home birth safety",
+        "No monitoring need"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prolonged second stage needs close surveillance and timely intervention.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0041",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Ethics",
+      "difficulty": "easy",
+      "stem": "Informed consent implies the client:",
+      "choices": [
+        "Signs without information",
+        "Understands risks, benefits, and alternatives before agreeing",
+        "Must always refuse care",
+        "Needs no questions answered"
+      ],
+      "correctIndex": 1,
+      "explanation": "Valid consent requires understanding and voluntary agreement.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0042",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Neurologic",
+      "difficulty": "medium",
+      "stem": "The Glasgow Coma Scale assesses:",
+      "choices": [
+        "Only blood pressure",
+        "Eye, verbal, and motor responses",
+        "Only urine output",
+        "Only skin turgor"
+      ],
+      "correctIndex": 1,
+      "explanation": "GCS scores eye opening, verbal response, and motor response.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0043",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "Nutrition",
+      "difficulty": "hard",
+      "stem": "Iodine deficiency disorders in communities are primarily prevented by:",
+      "choices": [
+        "Avoiding all salt",
+        "Universal salt iodization and related nutrition programs",
+        "Banning seafood",
+        "Increasing only sugar intake"
+      ],
+      "correctIndex": 1,
+      "explanation": "Salt iodization is a key public health strategy against IDD.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0044",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Care of Healthy/At Risk Mother and Child",
+      "topic": "Growth and Development",
+      "difficulty": "easy",
+      "stem": "The anterior fontanelle of an infant normally closes around:",
+      "choices": [
+        "1–2 months",
+        "12–18 months",
+        "5–6 years",
+        "At birth completely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anterior fontanelle typically closes by about 12–18 months.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0045",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Emergency",
+      "difficulty": "medium",
+      "stem": "For adult CPR, compression-to-ventilation ratio for 1 rescuer is commonly:",
+      "choices": [
+        "5:1",
+        "15:2",
+        "30:2",
+        "100:1"
+      ],
+      "correctIndex": 2,
+      "explanation": "Standard adult BLS uses 30 compressions to 2 breaths.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0046",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Renal",
+      "difficulty": "hard",
+      "stem": "Oliguria generally refers to:",
+      "choices": [
+        "Excessive urine output",
+        "Abnormally low urine output",
+        "No urine pigment",
+        "Always normal kidneys"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oliguria is reduced urine output.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0047",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice I - Community Health",
+      "topic": "Health Education",
+      "difficulty": "easy",
+      "stem": "Effective health teaching should begin with:",
+      "choices": [
+        "Ignoring learner needs",
+        "Assessing learning needs and readiness",
+        "Using only jargon",
+        "Skipping return demonstration always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Assessment of needs and readiness guides teaching.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0048",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice IV - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Perioperative",
+      "difficulty": "medium",
+      "stem": "Post-op priority immediately after anesthesia is often:",
+      "choices": [
+        "Ordering takeout",
+        "Airway and breathing assessment",
+        "Discharge teaching only",
+        "Ignoring vital signs"
+      ],
+      "correctIndex": 1,
+      "explanation": "ABCs remain the priority after anesthesia.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0049",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice II - Care of Healthy/At Risk Mother and Child",
+      "topic": "Family Planning",
+      "difficulty": "hard",
+      "stem": "Lactational Amenorrhea Method is most reliable when:",
+      "choices": [
+        "Any partial breastfeeding anytime",
+        "Exclusive breastfeeding, amenorrhea, and infant <6 months criteria are met",
+        "Formula feeding exclusively",
+        "Menstruation has returned"
+      ],
+      "correctIndex": 1,
+      "explanation": "LAM requires specific breastfeeding and amenorrhea criteria.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "pnle-0050",
+      "examId": "pnle",
+      "region": "PH",
+      "subject": "Nursing Practice III - Care of Clients with Physiologic and Psychosocial Alterations",
+      "topic": "Oncology",
+      "difficulty": "easy",
+      "stem": "Neutropenic precautions primarily protect against:",
+      "choices": [
+        "Infection risk from low neutrophils",
+        "High hemoglobin only",
+        "Hypernatremia alone",
+        "Hearing loss"
+      ],
+      "correctIndex": 0,
+      "explanation": "Low neutrophils increase infection vulnerability.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    }
+  ]
+}

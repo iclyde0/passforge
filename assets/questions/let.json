@@ -1,0 +1,1055 @@
+{
+  "examId": "let",
+  "title": "Licensure Examination for Teachers (LET)",
+  "country": "Philippines",
+  "region": "PH",
+  "disclaimer": "Original practice items for educational simulation only. Not affiliated with PRC/CSC.",
+  "questionCount": 55,
+  "questions": [
+    {
+      "id": "let-0001",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Philippine Constitution",
+      "difficulty": "medium",
+      "stem": "Under the 1987 Philippine Constitution, sovereignty resides in the people and all government authority emanates from them. Which principle does this primarily affirm?",
+      "choices": [
+        "Checks and balances",
+        "Popular sovereignty",
+        "Judicial review",
+        "Fiscal autonomy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article II expresses that sovereignty resides in the people; this is the doctrine of popular sovereignty.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0002",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Philippine History",
+      "difficulty": "easy",
+      "stem": "Which event marked the proclamation of Philippine independence from Spain on June 12, 1898?",
+      "choices": [
+        "Tejeros Convention",
+        "Cry of Pugad Lawin",
+        "Declaration at Kawit, Cavite",
+        "Malolos Congress opening"
+      ],
+      "correctIndex": 2,
+      "explanation": "Independence was proclaimed by Emilio Aguinaldo in Kawit, Cavite on June 12, 1898.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0003",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Filipino Language",
+      "difficulty": "easy",
+      "stem": "Alin sa mga sumusunod ang HINDI kabilang sa mga pantulong na bahagi ng pananalita sa Filipino?",
+      "choices": [
+        "Pang-ukol",
+        "Pangatnig",
+        "Pang-uri",
+        "Panghalip"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ang pang-uri ay pangunahing bahagi ng pananalita.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0004",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Mathematics",
+      "difficulty": "medium",
+      "stem": "A LET examinee scores 78, 84, and 90 on three GenEd practice sets. What is the mean score?",
+      "choices": [
+        "82",
+        "84",
+        "86",
+        "88"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mean = (78 + 84 + 90) / 3 = 84.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0005",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Science",
+      "difficulty": "medium",
+      "stem": "Which gas is primarily responsible for the greenhouse effect that raises Earth’s average temperature?",
+      "choices": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctIndex": 2,
+      "explanation": "CO₂ is a major greenhouse gas.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0006",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Philippine Literature",
+      "difficulty": "medium",
+      "stem": "Who wrote the novel Noli Me Tangere, a foundational text in Philippine literature and nationalism?",
+      "choices": [
+        "Andres Bonifacio",
+        "Jose Rizal",
+        "Apolinario Mabini",
+        "Graciano Lopez Jaena"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jose Rizal authored Noli Me Tangere (1887).",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0007",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Foundations of Education",
+      "difficulty": "medium",
+      "stem": "Which Philippine law decentralized basic education governance and strengthened school-based management?",
+      "choices": [
+        "RA 9155 (Governance of Basic Education Act)",
+        "RA 7836 (Teachers Professionalization Act)",
+        "RA 4670 (Magna Carta for Public School Teachers)",
+        "RA 10533 (Enhanced Basic Education Act)"
+      ],
+      "correctIndex": 0,
+      "explanation": "RA 9155 defines the framework of basic education governance and supports SBM.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0008",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Curriculum Development",
+      "difficulty": "medium",
+      "stem": "K to 12 was institutionalized in the Philippines primarily through which law?",
+      "choices": [
+        "RA 7722",
+        "RA 10533",
+        "RA 10931",
+        "RA 1425"
+      ],
+      "correctIndex": 1,
+      "explanation": "RA 10533 institutionalized the K to 12 basic education program.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0009",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Assessment",
+      "difficulty": "hard",
+      "stem": "A teacher designs an assessment that mirrors real classroom and workplace tasks. Which assessment approach is this closest to?",
+      "choices": [
+        "Norm-referenced testing",
+        "Authentic assessment",
+        "Speed test",
+        "Cloze procedure only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Authentic assessment emphasizes meaningful, real-world tasks.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0010",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Classroom Management",
+      "difficulty": "easy",
+      "stem": "Which practice best supports an inclusive Philippine classroom under the spirit of Education for All?",
+      "choices": [
+        "Grouping only high achievers for all activities",
+        "Using varied strategies to address learner diversity",
+        "Ignoring individual differences for fairness",
+        "Teaching only in English regardless of level"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inclusive pedagogy differentiates instruction and respects learner diversity.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0011",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Child Development",
+      "difficulty": "medium",
+      "stem": "According to Piaget, a Grade 1 learner who struggles with abstract algebra but succeeds with concrete manipulatives is likely in which stage?",
+      "choices": [
+        "Sensorimotor",
+        "Preoperational",
+        "Concrete operational",
+        "Formal operational"
+      ],
+      "correctIndex": 2,
+      "explanation": "Concrete operational thinkers reason with concrete objects.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0012",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Teaching Profession",
+      "difficulty": "easy",
+      "stem": "RA 7836 in the Philippines primarily concerns:",
+      "choices": [
+        "Free tertiary education",
+        "Professionalization of teachers / LET and PRC registration",
+        "School feeding programs",
+        "Campus journalism"
+      ],
+      "correctIndex": 1,
+      "explanation": "RA 7836 governs teacher licensure and related PRC processes.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0013",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Educational Technology",
+      "difficulty": "medium",
+      "stem": "In a DepEd school with limited devices, which is the most appropriate ICT integration principle?",
+      "choices": [
+        "Use tech only when every learner has a personal laptop",
+        "Align tools to learning objectives and available resources",
+        "Replace all textbooks with viral social media content",
+        "Avoid offline materials entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pedagogy first: select feasible tools that serve objectives.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0014",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Social Science",
+      "difficulty": "medium",
+      "stem": "Which government branch has the power to impeach high officials under the Philippine Constitution?",
+      "choices": [
+        "The Senate alone initiates impeachment",
+        "The House of Representatives initiates; Senate tries",
+        "The Supreme Court both initiates and tries",
+        "The COMELEC both initiates and tries"
+      ],
+      "correctIndex": 1,
+      "explanation": "Impeachment is initiated by the House and tried by the Senate.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0015",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "English",
+      "difficulty": "easy",
+      "stem": "Choose the grammatically correct sentence:",
+      "choices": [
+        "The learners was prepared for the LET.",
+        "The learners were prepared for the LET.",
+        "The learners is prepared for the LET.",
+        "The learners be prepared for the LET."
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural subject takes were.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0016",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Facilitating Learning",
+      "difficulty": "hard",
+      "stem": "A teacher uses prior knowledge activation before a new history lesson on the EDSA People Power Revolution. This primarily applies which principle?",
+      "choices": [
+        "Tabula rasa instruction",
+        "Meaningful learning / schema activation",
+        "Operant extinction only",
+        "Classical conditioning of fear"
+      ],
+      "correctIndex": 1,
+      "explanation": "Activating schema connects new content to existing knowledge.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0017",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Philippine Geography",
+      "difficulty": "easy",
+      "stem": "Which is the capital city of the Philippines?",
+      "choices": [
+        "Cebu City",
+        "Davao City",
+        "Manila",
+        "Quezon City"
+      ],
+      "correctIndex": 2,
+      "explanation": "Manila is the capital.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0018",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Assessment",
+      "difficulty": "medium",
+      "stem": "Which Philippine basic education classroom assessment practice emphasizes both formative and summative roles?",
+      "choices": [
+        "Relying solely on a single final exam",
+        "Using varied assessment evidence to improve and certify learning",
+        "Ranking only by speed of answering",
+        "Excluding performance tasks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiple evidences including formative use.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0019",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Values Education",
+      "difficulty": "easy",
+      "stem": "Bayanihan in Filipino culture best illustrates:",
+      "choices": [
+        "Extreme individualism",
+        "Communal cooperation and mutual help",
+        "Rejection of community bonds",
+        "Colonial taxation only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bayanihan symbolizes cooperative community spirit.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0020",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Foundations of Education",
+      "difficulty": "hard",
+      "stem": "The principle that the State shall protect and promote the right of all citizens to quality education is found in:",
+      "choices": [
+        "Article II and Article XIV of the 1987 Constitution",
+        "The Labor Code only",
+        "Local Government Code taxation title only",
+        "The Civil Code on property only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Education rights are constitutional commitments (notably Art. XIV).",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0021",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Philippine Government",
+      "difficulty": "medium",
+      "stem": "Who has the power of general supervision over local governments under the Constitution?",
+      "choices": [
+        "The Chief Justice",
+        "The President",
+        "The COMELEC Chairman",
+        "The Ombudsman only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The President exercises general supervision over LGUs.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0022",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Learning Theories",
+      "difficulty": "medium",
+      "stem": "Vygotsky’s Zone of Proximal Development emphasizes learning that occurs with:",
+      "choices": [
+        "No social interaction",
+        "Scaffolding / guided support from a more knowledgeable other",
+        "Punishment only",
+        "Rote copying without meaning"
+      ],
+      "correctIndex": 1,
+      "explanation": "ZPD is the gap between independent and assisted performance.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0023",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Economics",
+      "difficulty": "easy",
+      "stem": "Which Philippine agency is primarily responsible for compiling national accounts and statistics?",
+      "choices": [
+        "PSA",
+        "PNP",
+        "BFP",
+        "AFP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Philippine Statistics Authority.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0024",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Multicultural Education",
+      "difficulty": "medium",
+      "stem": "Mother Tongue-Based Multilingual Education (MTB-MLE) in early grades primarily aims to:",
+      "choices": [
+        "Forbid Filipino and English forever",
+        "Use the learner’s language as bridge to further learning",
+        "Eliminate all local languages",
+        "Teach only foreign literature"
+      ],
+      "correctIndex": 1,
+      "explanation": "MTB-MLE uses L1 as medium/bridge in early education.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0025",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Logic",
+      "difficulty": "medium",
+      "stem": "If all licensed teachers passed the LET, and Ana is a licensed teacher, which follows?",
+      "choices": [
+        "Ana failed the LET",
+        "Ana passed the LET",
+        "Ana is a nurse",
+        "Ana is unlicensed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Valid categorical syllogism.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0026",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "stem": "Compute 12 + 15.",
+      "choices": [
+        "27",
+        "28",
+        "3",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "12 + 15 = 27.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0027",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "stem": "Compute 27 + 18.",
+      "choices": [
+        "45",
+        "46",
+        "9",
+        "54"
+      ],
+      "correctIndex": 0,
+      "explanation": "27 + 18 = 45.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0028",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "stem": "Compute 45 + 55.",
+      "choices": [
+        "100",
+        "101",
+        "10",
+        "90"
+      ],
+      "correctIndex": 0,
+      "explanation": "45 + 55 = 100.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0029",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "stem": "Compute 9 + 16.",
+      "choices": [
+        "25",
+        "26",
+        "7",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "9 + 16 = 25.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0030",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "stem": "Compute 33 + 17.",
+      "choices": [
+        "50",
+        "51",
+        "16",
+        "66"
+      ],
+      "correctIndex": 0,
+      "explanation": "33 + 17 = 50.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0031",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Philippine Constitution",
+      "difficulty": "easy",
+      "stem": "How many years is the term of a Philippine President under the 1987 Constitution?",
+      "choices": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "The President and Vice President are elected for a term of six years.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0032",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Philippine Constitution",
+      "difficulty": "hard",
+      "stem": "Which body has the exclusive power to initiate all cases of impeachment?",
+      "choices": [
+        "Senate",
+        "Supreme Court",
+        "House of Representatives",
+        "COMELEC"
+      ],
+      "correctIndex": 2,
+      "explanation": "The House of Representatives has the exclusive power to initiate impeachment cases.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0033",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Philippine History",
+      "difficulty": "medium",
+      "stem": "The Katipunan was founded primarily to:",
+      "choices": [
+        "Negotiate free trade with Spain",
+        "Seek Philippine independence through revolution",
+        "Establish a Spanish colonial university",
+        "Abolish the Philippine peso"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Katipunan aimed at independence from Spain through revolutionary means.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0034",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Mathematics",
+      "difficulty": "hard",
+      "stem": "A square classroom has a perimeter of 48 m. What is its area?",
+      "choices": [
+        "96 m²",
+        "144 m²",
+        "192 m²",
+        "256 m²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Side = 48/4 = 12 m; area = 12² = 144 m².",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0035",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Science",
+      "difficulty": "easy",
+      "stem": "Which organelle is known as the powerhouse of the cell?",
+      "choices": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondrion",
+        "Golgi apparatus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mitochondria produce ATP through cellular respiration.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0036",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "English",
+      "difficulty": "medium",
+      "stem": "Choose the sentence with correct subject-verb agreement:",
+      "choices": [
+        "Neither of the learners were late.",
+        "Neither of the learners was late.",
+        "Neither of the learners be late.",
+        "Neither of the learners are late."
+      ],
+      "correctIndex": 1,
+      "explanation": "Neither takes a singular verb: was.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0037",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Assessment",
+      "difficulty": "easy",
+      "stem": "A short quiz given during a lesson to check understanding is mainly:",
+      "choices": [
+        "Norm-referenced certification only",
+        "Formative assessment",
+        "High-stakes licensure",
+        "Placement testing only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Formative assessment guides instruction while learning is ongoing.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0038",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Curriculum Development",
+      "difficulty": "hard",
+      "stem": "Spiral progression in the K to 12 curriculum means competencies are:",
+      "choices": [
+        "Taught once and never revisited",
+        "Revisited with increasing depth and complexity",
+        "Removed after Grade 3",
+        "Limited to memorization drills"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spiral progression revisits concepts with greater complexity over time.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0039",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Classroom Management",
+      "difficulty": "medium",
+      "stem": "The most proactive classroom management approach is to:",
+      "choices": [
+        "Wait for misbehavior then punish harshly",
+        "Establish clear routines and expectations early",
+        "Ignore all disruptions",
+        "Exclude diverse learners"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clear routines and expectations prevent many management issues.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0040",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Child Development",
+      "difficulty": "hard",
+      "stem": "Erikson’s stage most associated with adolescents seeking identity is:",
+      "choices": [
+        "Trust vs. mistrust",
+        "Industry vs. inferiority",
+        "Identity vs. role confusion",
+        "Integrity vs. despair"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adolescence is characterized by identity vs. role confusion.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0041",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Teaching Profession",
+      "difficulty": "medium",
+      "stem": "The Code of Ethics for Professional Teachers in the Philippines mainly guides:",
+      "choices": [
+        "Only school canteen pricing",
+        "Teachers’ professional and ethical conduct",
+        "COMELEC campaign spending",
+        "Barangay taxes"
+      ],
+      "correctIndex": 1,
+      "explanation": "It sets ethical standards for licensed teachers.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0042",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Educational Technology",
+      "difficulty": "easy",
+      "stem": "SAMR’s “Substitution” level means technology:",
+      "choices": [
+        "Redefines an entirely new task",
+        "Acts as a direct tool substitute with no functional change",
+        "Removes all learning goals",
+        "Is banned in class"
+      ],
+      "correctIndex": 1,
+      "explanation": "Substitution replaces a tool without changing the task’s function.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0043",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Filipino Language",
+      "difficulty": "medium",
+      "stem": "Ang “may-akda” ay tumutukoy sa:",
+      "choices": [
+        "Mambabasa",
+        "Tagapaglathala lamang",
+        "Sumulat ng akda",
+        "Patnugot ng pahayagan palagi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ang may-akda ang sumulat o lumikha ng akda.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0044",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Social Science",
+      "difficulty": "hard",
+      "stem": "Fiscal autonomy of local governments in the Philippines is closely linked to:",
+      "choices": [
+        "Absence of any national law",
+        "Power to create sources of revenue within legal limits",
+        "Supreme Court collecting all LGU taxes",
+        "Banning internal revenue allotments"
+      ],
+      "correctIndex": 1,
+      "explanation": "LGUs may create revenue sources consistent with law and fiscal autonomy.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0045",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Facilitating Learning",
+      "difficulty": "easy",
+      "stem": "Scaffolding most nearly means:",
+      "choices": [
+        "Removing all support immediately",
+        "Temporary support that is gradually withdrawn",
+        "Teaching only by lecture",
+        "Ignoring prior knowledge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Scaffolding provides temporary assistance toward independence.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0046",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Values Education",
+      "difficulty": "medium",
+      "stem": "Which value is most clearly shown when a class shares limited materials fairly?",
+      "choices": [
+        "Exclusivity",
+        "Pagkakaisa / fairness and cooperation",
+        "Indifference",
+        "Retaliation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fair sharing reflects cooperation and justice in community life.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0047",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Foundations of Education",
+      "difficulty": "easy",
+      "stem": "DepEd’s mandate in the Philippines primarily covers:",
+      "choices": [
+        "Only higher education universities",
+        "Basic education (elementary and secondary)",
+        "Only bar examinations",
+        "Only PRC board reviews"
+      ],
+      "correctIndex": 1,
+      "explanation": "DepEd oversees basic education; CHED/TESDA cover other levels.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0048",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Philippine Geography",
+      "difficulty": "medium",
+      "stem": "Which island group includes Cebu and Negros?",
+      "choices": [
+        "Luzon only",
+        "Visayas",
+        "Palawan alone",
+        "Batanes only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cebu and Negros are in the Visayas.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0049",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Learning Theories",
+      "difficulty": "hard",
+      "stem": "A teacher who reinforces desired behavior with praise is applying:",
+      "choices": [
+        "Classical extinction only",
+        "Operant conditioning principles",
+        "Gestalt closure alone",
+        "Phrenology"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reinforcement of voluntary behavior is operant conditioning.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0050",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Logic",
+      "difficulty": "easy",
+      "stem": "Which argument is valid?",
+      "choices": [
+        "All birds fly; penguins are birds; therefore penguins fly necessarily in life.",
+        "All squares are rectangles; figure A is a square; therefore A is a rectangle.",
+        "Some dogs bark; Spot is a cat; therefore Spot barks.",
+        "No conclusion can ever be valid."
+      ],
+      "correctIndex": 1,
+      "explanation": "The second follows validly from the premises (even if empirical claims differ).",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0051",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Assessment",
+      "difficulty": "hard",
+      "stem": "Reliability of a test mainly refers to:",
+      "choices": [
+        "Whether it looks attractive",
+        "Consistency of scores across replications",
+        "Whether stakeholders like it",
+        "Length of the answer key only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reliability is about consistency of measurement.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0052",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Science",
+      "difficulty": "hard",
+      "stem": "In photosynthesis, light energy is captured mainly by:",
+      "choices": [
+        "Mitochondrial DNA",
+        "Chlorophyll and related pigments",
+        "Cell wall cellulose alone",
+        "Ribosomal RNA"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chlorophyll pigments capture light for photosynthesis.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0053",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Curriculum Development",
+      "difficulty": "easy",
+      "stem": "A curriculum map is most useful for:",
+      "choices": [
+        "Hiding competencies from teachers",
+        "Aligning standards, content, and assessments over time",
+        "Replacing lesson plans entirely without goals",
+        "Removing formative checks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maps help align intended learning, teaching, and assessment.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0054",
+      "examId": "let",
+      "region": "PH",
+      "subject": "General Education",
+      "topic": "Philippine Literature",
+      "difficulty": "hard",
+      "stem": "El Filibusterismo is best described as:",
+      "choices": [
+        "A cookbook of Spanish recipes",
+        "Rizal’s sequel novel critiquing colonial society",
+        "A DepEd mathematics syllabus",
+        "A CSC exam review only"
+      ],
+      "correctIndex": 1,
+      "explanation": "El Filibusterismo is Rizal’s second novel continuing social critique.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "let-0055",
+      "examId": "let",
+      "region": "PH",
+      "subject": "Professional Education",
+      "topic": "Classroom Management",
+      "difficulty": "hard",
+      "stem": "When conflict arises, a restorative approach prioritizes:",
+      "choices": [
+        "Public humiliation",
+        "Repairing harm and restoring relationships",
+        "Ignoring all stakeholders",
+        "Immediate expulsion only as first step always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Restorative practice focuses on accountability and repairing relationships.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    }
+  ]
+}

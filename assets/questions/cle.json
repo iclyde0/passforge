@@ -1,0 +1,960 @@
+{
+  "examId": "cle",
+  "title": "Criminologists Licensure Examination (CLE)",
+  "country": "Philippines",
+  "region": "PH",
+  "disclaimer": "Original practice items for educational simulation only. Not affiliated with PRC/CSC.",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "cle-0001",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Law and Jurisprudence",
+      "topic": "Revised Penal Code",
+      "difficulty": "medium",
+      "stem": "Under the Revised Penal Code, dolo refers to:",
+      "choices": [
+        "Negligence",
+        "Deceit / malice (intent)",
+        "Accident only",
+        "Insanity only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dolo = deliberate intent; culpa = fault/negligence.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0002",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Law and Jurisprudence",
+      "topic": "Circumstances",
+      "difficulty": "hard",
+      "stem": "Justifying circumstances under the RPC generally:",
+      "choices": [
+        "Increase the penalty",
+        "Exempt from criminal liability because the act is lawful",
+        "Only apply to civil cases",
+        "Are the same as aggravating circumstances"
+      ],
+      "correctIndex": 1,
+      "explanation": "Justifying circumstances make the act non-criminal.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0003",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Law Enforcement Administration",
+      "topic": "Police Organization",
+      "difficulty": "easy",
+      "stem": "The national police force of the Philippines is the:",
+      "choices": [
+        "PNP",
+        "AFP only",
+        "BFP only",
+        "NBI only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Philippine National Police (PNP).",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0004",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Law Enforcement Administration",
+      "topic": "Patrol",
+      "difficulty": "medium",
+      "stem": "The primary purpose of police patrol is generally to:",
+      "choices": [
+        "Replace courts",
+        "Prevent crime, protect life/property, and maintain order through presence and response",
+        "Collect only taxes",
+        "Draft statutes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Patrol is the backbone of police operations.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0005",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Crime Detection and Investigation",
+      "topic": "Crime Scene",
+      "difficulty": "medium",
+      "stem": "First responders at a crime scene should prioritize:",
+      "choices": [
+        "Posting on social media first",
+        "Safety, aid to victims, and scene preservation/security",
+        "Moving all evidence immediately without documentation",
+        "Interviewing only via gossip"
+      ],
+      "correctIndex": 1,
+      "explanation": "Protect life, secure scene, preserve evidence.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0006",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Crime Detection and Investigation",
+      "topic": "Interview vs Interrogation",
+      "difficulty": "medium",
+      "stem": "An interview is primarily:",
+      "choices": [
+        "Accusatorial questioning of a suspect only",
+        "A non-accusatory conversation to gather information",
+        "A court judgment",
+        "A search warrant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Interviews gather information.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0007",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminalistics",
+      "topic": "Fingerprint",
+      "difficulty": "easy",
+      "stem": "Fingerprints are valuable evidence primarily because they are:",
+      "choices": [
+        "Identical for all siblings always",
+        "Highly individualized and persistent",
+        "Change weekly",
+        "Invisible always and unusable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Friction ridge patterns are highly distinctive.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0008",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminalistics",
+      "topic": "Ballistics",
+      "difficulty": "medium",
+      "stem": "Forensic ballistics generally studies:",
+      "choices": [
+        "Firearms, ammunition, and related evidence",
+        "Only blood typing",
+        "Only handwriting",
+        "Only cyber logs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ballistics covers arms and ammo-related evidence.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0009",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Correctional Administration",
+      "topic": "Penology",
+      "difficulty": "medium",
+      "stem": "The modern correctional philosophy emphasizes:",
+      "choices": [
+        "Punishment only with no rehabilitation",
+        "Reformation/rehabilitation alongside safe custody and justice goals",
+        "Releasing all offenders immediately always",
+        "Private revenge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Corrections balances custody, justice, and rehabilitation.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0010",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Correctional Administration",
+      "topic": "BJMP / BuCor",
+      "difficulty": "easy",
+      "stem": "In the Philippines, city and municipal jails are generally under:",
+      "choices": [
+        "BJMP",
+        "DepEd",
+        "Comelec",
+        "PSA only"
+      ],
+      "correctIndex": 0,
+      "explanation": "BJMP handles city/municipal jails.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0011",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Sociology and Ethics",
+      "topic": "Criminology Theories",
+      "difficulty": "medium",
+      "stem": "Differential association theory mainly explains crime as learned through:",
+      "choices": [
+        "Genetic mutation alone",
+        "Interaction and communication with others",
+        "Weather only",
+        "Random chance only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sutherland's differential association theory.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0012",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Sociology and Ethics",
+      "topic": "Ethics",
+      "difficulty": "medium",
+      "stem": "A criminologist/law enforcer falsifying reports violates primarily:",
+      "choices": [
+        "Professional ethics and possibly criminal law",
+        "Fashion guidelines only",
+        "Sports rules only",
+        "Nothing significant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Integrity of reports is a core ethical and legal obligation.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0013",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Law and Jurisprudence",
+      "topic": "Persons Criminally Liable",
+      "difficulty": "hard",
+      "stem": "Principals by inducement are those who:",
+      "choices": [
+        "Merely watch without any act",
+        "Directly force or induce others to commit the crime",
+        "Are always accomplices only",
+        "Are always accessories after the fact"
+      ],
+      "correctIndex": 1,
+      "explanation": "Principals include those who induce others to commit the crime.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0014",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Law Enforcement Administration",
+      "topic": "Community Policing",
+      "difficulty": "easy",
+      "stem": "Community-oriented policing emphasizes:",
+      "choices": [
+        "Isolation from the community",
+        "Partnership with the community to solve problems",
+        "Ending all patrols",
+        "Removing all accountability"
+      ],
+      "correctIndex": 1,
+      "explanation": "COP builds collaborative problem-solving.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0015",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Crime Detection and Investigation",
+      "topic": "Cybercrime",
+      "difficulty": "medium",
+      "stem": "RA 10175 in the Philippines is known as the:",
+      "choices": [
+        "Cybercrime Prevention Act",
+        "Clean Air Act",
+        "Rice Tariffication Law",
+        "Universal Health Care Act"
+      ],
+      "correctIndex": 0,
+      "explanation": "RA 10175 is the Cybercrime Prevention Act of 2012.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0016",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminalistics",
+      "topic": "Questioned Documents",
+      "difficulty": "hard",
+      "stem": "A questioned document examiner may analyze:",
+      "choices": [
+        "Handwriting, signatures, and alterations on documents",
+        "Only soil color",
+        "Only blood alcohol",
+        "Only ocean currents"
+      ],
+      "correctIndex": 0,
+      "explanation": "QD examination covers handwriting/signatures and alterations.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0017",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Correctional Administration",
+      "topic": "Rights of Prisoners",
+      "difficulty": "medium",
+      "stem": "Persons deprived of liberty retain rights that are:",
+      "choices": [
+        "Entirely extinguished",
+        "Limited by lawful confinement but not degraded of basic human dignity/rights",
+        "Unlimited free travel always",
+        "Identical to police powers of arrest"
+      ],
+      "correctIndex": 1,
+      "explanation": "PDL retain fundamental rights consistent with lawful custody.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0018",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Sociology and Ethics",
+      "topic": "Victimology",
+      "difficulty": "easy",
+      "stem": "Victimology primarily studies:",
+      "choices": [
+        "Victims of crime and victimization processes",
+        "Only offender genetics",
+        "Only court architecture",
+        "Only police uniforms"
+      ],
+      "correctIndex": 0,
+      "explanation": "Victimology focuses on victims.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0019",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Law and Jurisprudence",
+      "topic": "Special Laws",
+      "difficulty": "medium",
+      "stem": "Illegal drug cases in the Philippines are primarily governed by:",
+      "choices": [
+        "RA 9165 (Comprehensive Dangerous Drugs Act) and related issuances",
+        "Family Code marriage articles only",
+        "Insurance Code only",
+        "Corporation Code only"
+      ],
+      "correctIndex": 0,
+      "explanation": "RA 9165 is the main special penal law on dangerous drugs.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0020",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Law Enforcement Administration",
+      "topic": "Report Writing",
+      "difficulty": "easy",
+      "stem": "An effective police blotter/entry should be:",
+      "choices": [
+        "Vague and undated",
+        "Clear, factual, chronological, and properly identified",
+        "Based on rumors only",
+        "Written after destroying notes always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reports must be accurate, complete, and objective.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0021",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Crime Detection and Investigation",
+      "topic": "Evidence",
+      "difficulty": "medium",
+      "stem": "Chain of custody primarily ensures:",
+      "choices": [
+        "Evidence integrity and accountability from collection to presentation",
+        "Faster traffic enforcement only",
+        "Lower salaries",
+        "Public entertainment"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chain of custody protects evidentiary integrity.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0022",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminalistics",
+      "topic": "Forensic Photography",
+      "difficulty": "easy",
+      "stem": "Crime scene photographs should preferably be:",
+      "choices": [
+        "Staged dramatizations only",
+        "Accurate, labeled, and taken before scene disturbance when possible",
+        "Deleted after viewing",
+        "Unrelated angles only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Photos must accurately document the scene.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0023",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Correctional Administration",
+      "topic": "Classification",
+      "difficulty": "medium",
+      "stem": "Inmate classification helps institutions by:",
+      "choices": [
+        "Ignoring risk differences",
+        "Matching custody/program needs to assessed risk and needs",
+        "Punishing randomly",
+        "Eliminating all records"
+      ],
+      "correctIndex": 1,
+      "explanation": "Classification supports safe and appropriate placement.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0024",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Sociology and Ethics",
+      "topic": "Human Rights",
+      "difficulty": "hard",
+      "stem": "During custodial investigation in the Philippines, the Bill of Rights primarily protects against:",
+      "choices": [
+        "Forced confessions and denial of counsel, among other safeguards",
+        "All traffic tickets forever",
+        "Paying taxes",
+        "Taking photos outdoors"
+      ],
+      "correctIndex": 0,
+      "explanation": "Constitutional rights in custodial investigation include counsel and protection vs coercion.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0025",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Law Enforcement Administration",
+      "topic": "Police Ethics",
+      "difficulty": "medium",
+      "stem": "Use of force by police should be:",
+      "choices": [
+        "Unlimited always",
+        "Lawful, necessary, and proportional to the threat",
+        "Based on personal anger",
+        "Hidden from all reporting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Force must meet legality, necessity, and proportionality.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0026",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Law and Jurisprudence",
+      "topic": "RPC Book 1",
+      "difficulty": "easy",
+      "stem": "Felonies are committed by means of deceit (dolo) or:",
+      "choices": [
+        "Only by accident without rule",
+        "Fault (culpa)",
+        "Always by omission only",
+        "By prayer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Felonies are by dolo or culpa.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0027",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Law and Jurisprudence",
+      "topic": "Circumstances",
+      "difficulty": "hard",
+      "stem": "A justifying circumstance generally means:",
+      "choices": [
+        "The act is criminal and punished fully",
+        "The actor incurs no criminal liability",
+        "Only civil liability remains impossible always",
+        "Penalty is always maximized"
+      ],
+      "correctIndex": 1,
+      "explanation": "Justifying circumstances exempt from criminal liability.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0028",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Law Enforcement Administration",
+      "topic": "Police Organization",
+      "difficulty": "medium",
+      "stem": "PNP is primarily under the administrative control/supervision framework linked to:",
+      "choices": [
+        "DILG / NAPOLCOM framework",
+        "DepEd only",
+        "BSP only",
+        "COMELEC only"
+      ],
+      "correctIndex": 0,
+      "explanation": "PNP operates within DILG/NAPOLCOM structures.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0029",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Law Enforcement Administration",
+      "topic": "Patrol",
+      "difficulty": "easy",
+      "stem": "Visibility patrols mainly aim to:",
+      "choices": [
+        "Increase fear only",
+        "Deter crime and enhance public safety presence",
+        "Replace all investigation",
+        "Abolish community relations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Patrol provides deterrence and service presence.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0030",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Crime Detection and Investigation",
+      "topic": "Crime Scene",
+      "difficulty": "hard",
+      "stem": "The first officer’s priority at a scene is often to:",
+      "choices": [
+        "Post photos online",
+        "Ensure safety and secure/preserve the scene",
+        "Alter evidence for convenience",
+        "Ignore victims"
+      ],
+      "correctIndex": 1,
+      "explanation": "Safety and scene security/preservation come first.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0031",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Crime Detection and Investigation",
+      "topic": "Interview",
+      "difficulty": "medium",
+      "stem": "Cognitive interviewing techniques emphasize:",
+      "choices": [
+        "Leading and coercing",
+        "Facilitating accurate memory retrieval without contamination",
+        "Ignoring free recall",
+        "Only yes/no forced answers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cognitive interviews aid accurate recall.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0032",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Forensic Science",
+      "topic": "Fingerprints",
+      "difficulty": "easy",
+      "stem": "Fingerprint identification is valued because ridge patterns are:",
+      "choices": [
+        "Identical for all siblings always",
+        "Highly individual and persistent",
+        "Changing weekly",
+        "Useless in courts always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fingerprints are highly individualized and persistent.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0033",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Forensic Science",
+      "topic": "Ballistics",
+      "difficulty": "hard",
+      "stem": "Rifling marks on a bullet are useful for:",
+      "choices": [
+        "Determining blood type",
+        "Firearm identification comparisons",
+        "DNA extraction only",
+        "Fingerprint powder choice only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Toolmarks/rifling support firearm ID.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0034",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Correctional Administration",
+      "topic": "Penology",
+      "difficulty": "medium",
+      "stem": "Rehabilitation as a correctional goal emphasizes:",
+      "choices": [
+        "Revenge only",
+        "Reforming offenders and reducing reoffending",
+        "Ignoring aftercare",
+        "Public humiliation as primary tool"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rehabilitation aims at reform and reintegration.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0035",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Correctional Administration",
+      "topic": "Jail Management",
+      "difficulty": "easy",
+      "stem": "Classification of persons deprived of liberty helps:",
+      "choices": [
+        "Mix all risk levels randomly",
+        "Manage security and programming appropriately",
+        "Eliminate records",
+        "Ban visitation always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Classification supports safe and suitable placement/programs.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0036",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Sociology",
+      "topic": "Theories",
+      "difficulty": "hard",
+      "stem": "Strain theory associates crime with:",
+      "choices": [
+        "Disjunction between cultural goals and legitimate means",
+        "Genetics alone always",
+        "Weather only",
+        "Random chance exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "Strain highlights blocked legitimate means to valued goals.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0037",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Sociology",
+      "topic": "Victimology",
+      "difficulty": "medium",
+      "stem": "Victimology studies:",
+      "choices": [
+        "Only police uniforms",
+        "Victims, victimization, and related responses",
+        "Only prison architecture",
+        "Only fingerprint powders"
+      ],
+      "correctIndex": 1,
+      "explanation": "Victimology focuses on victims and victimization.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0038",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Law and Jurisprudence",
+      "topic": "Crimes Against Persons",
+      "difficulty": "easy",
+      "stem": "Homicide under the RPC generally involves:",
+      "choices": [
+        "Theft of property only",
+        "Killing of a person without the qualifying circumstances of murder as defined",
+        "Only libel",
+        "Only estafa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Homicide is killing without murder’s qualifying circumstances.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0039",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Law Enforcement Administration",
+      "topic": "Community Policing",
+      "difficulty": "hard",
+      "stem": "Problem-oriented policing focuses on:",
+      "choices": [
+        "Only random arrests without analysis",
+        "Identifying and addressing underlying crime problems",
+        "Ignoring data",
+        "Avoiding partnerships"
+      ],
+      "correctIndex": 1,
+      "explanation": "POP analyzes and treats root crime problems.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0040",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Crime Detection and Investigation",
+      "topic": "Cybercrime",
+      "difficulty": "medium",
+      "stem": "RA 10175 in the Philippines primarily addresses:",
+      "choices": [
+        "Agrarian reform",
+        "Cybercrime prevention",
+        "Purely maritime borders only",
+        "Sports betting taxes only"
+      ],
+      "correctIndex": 1,
+      "explanation": "RA 10175 is the Cybercrime Prevention Act.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0041",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Forensic Science",
+      "topic": "DNA",
+      "difficulty": "easy",
+      "stem": "DNA evidence is powerful because it can:",
+      "choices": [
+        "Prove motive always alone",
+        "Link biological material to individuals with high discrimination",
+        "Replace all witness statements always",
+        "Date a crime to the exact minute alone always"
+      ],
+      "correctIndex": 1,
+      "explanation": "DNA can strongly associate biological evidence with persons.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0042",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Correctional Administration",
+      "topic": "Probation",
+      "difficulty": "hard",
+      "stem": "Probation generally allows a convicted person to:",
+      "choices": [
+        "Serve sentence in community under supervision in lieu of imprisonment when granted",
+        "Avoid all court jurisdiction forever",
+        "Delete the conviction automatically always",
+        "Leave the country without conditions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Probation is community supervision as a sentencing alternative when legally available.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0043",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Sociology",
+      "topic": "Juvenile",
+      "difficulty": "easy",
+      "stem": "RA 9344 relates to:",
+      "choices": [
+        "Juvenile justice and welfare",
+        "Adult capital markets only",
+        "Customs valuation only",
+        "Civil service exams only"
+      ],
+      "correctIndex": 0,
+      "explanation": "RA 9344 is the Juvenile Justice and Welfare Act.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0044",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Law and Jurisprudence",
+      "topic": "Special Laws",
+      "difficulty": "medium",
+      "stem": "RA 9165 primarily concerns:",
+      "choices": [
+        "Comprehensive Dangerous Drugs Act",
+        "Local Government Code only",
+        "Insurance Code only",
+        "Family Code only"
+      ],
+      "correctIndex": 0,
+      "explanation": "RA 9165 is the Comprehensive Dangerous Drugs Act.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0045",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Law Enforcement Administration",
+      "topic": "Intelligence",
+      "difficulty": "hard",
+      "stem": "Crime analysis converting data into actionable insights is closest to:",
+      "choices": [
+        "Ignoring patterns",
+        "Intelligence-led / analytical policing support",
+        "Destroying records",
+        "Random deployment only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Analysis supports intelligence-led deployment.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0046",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Crime Detection and Investigation",
+      "topic": "Investigation Process",
+      "difficulty": "easy",
+      "stem": "A case folder should be:",
+      "choices": [
+        "Unorganized and oral only",
+        "Documented, chronological, and well-preserved",
+        "Posted publicly with all raw identities always",
+        "Destroyed weekly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proper documentation preserves investigative integrity.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0047",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Forensic Science",
+      "topic": "Questioned Documents",
+      "difficulty": "medium",
+      "stem": "Handwriting comparison can help determine:",
+      "choices": [
+        "Blood alcohol always",
+        "Possible authorship/common origin of writing",
+        "Exact GPS path always",
+        "Bullet caliber always"
+      ],
+      "correctIndex": 1,
+      "explanation": "QD exams compare writing characteristics.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0048",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Correctional Administration",
+      "topic": "Human Rights",
+      "difficulty": "hard",
+      "stem": "Persons deprived of liberty retain:",
+      "choices": [
+        "No residual rights",
+        "Fundamental human rights subject to lawful limitations of custody",
+        "Only property rights abroad",
+        "Voting rights in all foreign elections automatically"
+      ],
+      "correctIndex": 1,
+      "explanation": "Custody limits some liberties but core human rights remain.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0049",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Sociology",
+      "topic": "Prevention",
+      "difficulty": "medium",
+      "stem": "Situational crime prevention seeks to:",
+      "choices": [
+        "Change only national culture overnight",
+        "Reduce opportunities for crime through environmental/design measures",
+        "Ignore guardianship",
+        "Increase anonymity of targets always"
+      ],
+      "correctIndex": 1,
+      "explanation": "SCP reduces crime opportunities in immediate settings.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    },
+    {
+      "id": "cle-0050",
+      "examId": "cle",
+      "region": "PH",
+      "subject": "Criminal Law and Jurisprudence",
+      "topic": "Evidence Basics for CLE",
+      "difficulty": "easy",
+      "stem": "Corpus delicti refers to:",
+      "choices": [
+        "The body/elements showing a crime was committed",
+        "Only the defense counsel",
+        "A police badge number",
+        "A jail ration list"
+      ],
+      "correctIndex": 0,
+      "explanation": "Corpus delicti is the substance of the crime committed.",
+      "country": "Philippines",
+      "regulator": "PRC"
+    }
+  ]
+}
